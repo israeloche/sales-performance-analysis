@@ -1,4 +1,4 @@
-# sales-performance-analysis
+
 Overview
 This project performs exploratory data analysis (EDA) on a sales dataset to uncover key business insights, including top-performing products, revenue trends, and category performance.
 It is designed as an entry-level data analytics portfolio project, demonstrating practical skills in data cleaning, analysis, and visualization using Python.
