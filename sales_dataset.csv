@@ -1,0 +1,1501 @@
+Date,Region,Salesperson,Product,Category,Units Sold,Unit Price,Total Revenue,Customer Rating
+2026-02-21,Ibadan,Ibrahim,Charger,Accessories,7,20,140,5
+2026-03-13,Lagos,Bola,Laptop,Electronics,15,800,12000,5
+2026-03-24,Ibadan,Luke,Charger,Accessories,7,20,140,3
+2026-03-29,Port Harcourt,Ngozi,Charger,Accessories,11,20,220,5
+2026-01-24,Port Harcourt,Hauwa,Tablet,Electronics,4,300,1200,3
+2026-03-29,Abuja,Hauwa,Tablet,Electronics,2,300,600,4
+2026-01-02,Abuja,Mary,Tablet,Electronics,6,300,1800,4
+2026-03-17,Kano,Dami,Tablet,Electronics,1,300,300,2
+2026-03-30,Ibadan,Ola,Phone,Electronics,12,250,3000,1
+2026-03-01,Port Harcourt,Ola,Headphones,Accessories,10,50,500,3
+2026-02-24,Port Harcourt,Gideon,Charger,Accessories,12,20,240,4
+2026-02-20,Kano,Bola,Laptop,Electronics,3,800,2400,5
+2026-02-08,Abuja,Hauwa,Phone,Electronics,9,250,2250,2
+2026-03-30,Kano,Luke,Headphones,Accessories,4,50,200,4
+2026-01-09,Ibadan,Ngozi,Laptop,Electronics,14,800,11200,2
+2026-03-25,Lagos,Gideon,Phone,Electronics,2,250,500,4
+2026-03-01,Lagos,Dami,Tablet,Electronics,15,300,4500,4
+2026-02-16,Lagos,Hauwa,Charger,Accessories,8,20,160,3
+2026-03-22,Lagos,Gideon,Headphones,Accessories,14,50,700,4
+2026-01-04,Port Harcourt,Dami,Headphones,Accessories,18,50,900,2
+2026-02-23,Lagos,Fatima,Charger,Accessories,6,20,120,2
+2026-02-23,Ibadan,Mary,Headphones,Accessories,4,50,200,5
+2026-03-31,Ibadan,Bola,Charger,Accessories,18,20,360,4
+2026-03-15,Lagos,Bola,Laptop,Electronics,2,800,1600,4
+2026-02-17,Abuja,Dami,Tablet,Electronics,14,300,4200,4
+2026-03-26,Kano,Dami,Charger,Accessories,8,20,160,5
+2026-02-22,Kano,Ade,Laptop,Electronics,18,800,14400,2
+2026-02-10,Lagos,Dami,Laptop,Electronics,13,800,10400,5
+2026-02-14,Lagos,Hauwa,Tablet,Electronics,15,300,4500,1
+2026-01-09,Kano,Fatima,Laptop,Electronics,7,800,5600,1
+2026-01-08,Lagos,Joy,Tablet,Electronics,12,300,3600,3
+2026-03-22,Abuja,Luke,Charger,Accessories,19,20,380,3
+2026-02-02,Kano,Luke,Tablet,Electronics,3,300,900,3
+2026-02-10,Kano,Hauwa,Charger,Accessories,5,20,100,4
+2026-03-14,Ibadan,Luke,Tablet,Electronics,7,300,2100,4
+2026-02-02,Lagos,Hauwa,Laptop,Electronics,2,800,1600,5
+2026-02-13,Lagos,Joy,Tablet,Electronics,3,300,900,3
+2026-03-06,Kano,Fatima,Charger,Accessories,3,20,60,3
+2026-02-16,Lagos,Ade,Laptop,Electronics,5,800,4000,3
+2026-01-05,Kano,Joy,Charger,Accessories,1,20,20,2
+2026-01-27,Lagos,Hauwa,Phone,Electronics,14,250,3500,1
+2026-01-15,Kano,Emeka,Tablet,Electronics,15,300,4500,2
+2026-03-18,Lagos,Mary,Charger,Accessories,10,20,200,3
+2026-02-21,Port Harcourt,Dami,Tablet,Electronics,7,300,2100,5
+2026-01-23,Kano,Bola,Phone,Electronics,4,250,1000,5
+2026-02-12,Lagos,Hauwa,Phone,Electronics,15,250,3750,5
+2026-01-13,Ibadan,Dami,Headphones,Accessories,4,50,200,3
+2026-03-27,Ibadan,Joy,Phone,Electronics,19,250,4750,4
+2026-02-11,Lagos,Ola,Phone,Electronics,2,250,500,5
+2026-01-28,Kano,Dami,Charger,Accessories,6,20,120,4
+2026-02-13,Ibadan,Hauwa,Laptop,Electronics,12,800,9600,4
+2026-03-30,Port Harcourt,Fatima,Phone,Electronics,11,250,2750,1
+2026-01-27,Kano,Fatima,Tablet,Electronics,1,300,300,1
+2026-03-18,Lagos,Fatima,Phone,Electronics,20,250,5000,1
+2026-03-11,Ibadan,Kemi,Charger,Accessories,3,20,60,3
+2026-03-03,Kano,Emeka,Charger,Accessories,9,20,180,5
+2026-02-20,Abuja,Kemi,Laptop,Electronics,1,800,800,2
+2026-01-24,Lagos,Mary,Laptop,Electronics,12,800,9600,3
+2026-02-21,Kano,Emeka,Laptop,Electronics,9,800,7200,1
+2026-02-27,Lagos,Ade,Tablet,Electronics,17,300,5100,4
+2026-02-08,Port Harcourt,Ibrahim,Headphones,Accessories,12,50,600,2
+2026-02-25,Abuja,Ngozi,Phone,Electronics,3,250,750,1
+2026-01-02,Ibadan,Hauwa,Headphones,Accessories,17,50,850,2
+2026-01-01,Kano,Ibrahim,Headphones,Accessories,5,50,250,3
+2026-02-22,Kano,Dami,Phone,Electronics,2,250,500,4
+2026-02-01,Ibadan,Ola,Charger,Accessories,6,20,120,4
+2026-02-25,Kano,Hauwa,Tablet,Electronics,11,300,3300,3
+2026-02-07,Port Harcourt,Ngozi,Laptop,Electronics,17,800,13600,5
+2026-03-11,Abuja,Gideon,Tablet,Electronics,20,300,6000,3
+2026-01-16,Lagos,Dami,Tablet,Electronics,16,300,4800,1
+2026-02-28,Lagos,Ola,Headphones,Accessories,9,50,450,5
+2026-01-20,Port Harcourt,Ade,Headphones,Accessories,3,50,150,4
+2026-01-19,Port Harcourt,Mary,Laptop,Electronics,4,800,3200,2
+2026-01-19,Lagos,Kemi,Charger,Accessories,3,20,60,4
+2026-02-21,Kano,Ola,Charger,Accessories,7,20,140,1
+2026-02-09,Abuja,Ibrahim,Tablet,Electronics,1,300,300,2
+2026-01-01,Port Harcourt,Joy,Laptop,Electronics,8,800,6400,3
+2026-01-23,Port Harcourt,Luke,Headphones,Accessories,18,50,900,2
+2026-01-07,Ibadan,Kemi,Headphones,Accessories,3,50,150,4
+2026-03-31,Ibadan,Luke,Charger,Accessories,16,20,320,1
+2026-03-01,Ibadan,Ade,Tablet,Electronics,20,300,6000,1
+2026-01-01,Kano,Ade,Phone,Electronics,2,250,500,4
+2026-02-06,Kano,Fatima,Tablet,Electronics,5,300,1500,3
+2026-01-19,Kano,Hauwa,Headphones,Accessories,9,50,450,3
+2026-01-24,Ibadan,Bola,Tablet,Electronics,20,300,6000,1
+2026-03-16,Abuja,Chidi,Tablet,Electronics,20,300,6000,1
+2026-02-05,Kano,Ibrahim,Phone,Electronics,8,250,2000,4
+2026-03-30,Abuja,Chidi,Headphones,Accessories,3,50,150,3
+2026-03-23,Port Harcourt,Gideon,Headphones,Accessories,18,50,900,2
+2026-03-21,Abuja,Gideon,Charger,Accessories,3,20,60,5
+2026-02-02,Lagos,Mary,Charger,Accessories,9,20,180,4
+2026-01-14,Kano,Dami,Charger,Accessories,1,20,20,5
+2026-01-20,Kano,Chidi,Phone,Electronics,16,250,4000,3
+2026-02-02,Port Harcourt,Ibrahim,Phone,Electronics,17,250,4250,4
+2026-03-27,Kano,Hauwa,Laptop,Electronics,19,800,15200,5
+2026-02-23,Lagos,Bola,Tablet,Electronics,19,300,5700,3
+2026-01-21,Kano,Dami,Headphones,Accessories,2,50,100,1
+2026-03-05,Kano,Ade,Charger,Accessories,15,20,300,1
+2026-03-02,Ibadan,Ola,Charger,Accessories,5,20,100,3
+2026-02-04,Ibadan,Ngozi,Charger,Accessories,4,20,80,1
+2026-02-13,Ibadan,Ola,Charger,Accessories,17,20,340,4
+2026-01-06,Abuja,Mary,Phone,Electronics,14,250,3500,3
+2026-02-06,Kano,Kemi,Headphones,Accessories,9,50,450,5
+2026-02-15,Lagos,Gideon,Laptop,Electronics,17,800,13600,5
+2026-03-01,Ibadan,Joy,Charger,Accessories,3,20,60,1
+2026-03-04,Lagos,Bola,Laptop,Electronics,20,800,16000,5
+2026-03-08,Lagos,Luke,Charger,Accessories,1,20,20,2
+2026-02-23,Lagos,Ibrahim,Phone,Electronics,10,250,2500,2
+2026-02-15,Kano,Ola,Charger,Accessories,3,20,60,2
+2026-03-27,Port Harcourt,Fatima,Headphones,Accessories,15,50,750,2
+2026-01-02,Lagos,Dami,Headphones,Accessories,10,50,500,2
+2026-02-02,Lagos,Ade,Tablet,Electronics,17,300,5100,1
+2026-02-17,Kano,Bola,Tablet,Electronics,11,300,3300,5
+2026-01-26,Abuja,Bola,Charger,Accessories,10,20,200,3
+2026-01-25,Kano,Bola,Headphones,Accessories,18,50,900,5
+2026-02-26,Kano,Dami,Headphones,Accessories,7,50,350,4
+2026-01-20,Lagos,Ade,Laptop,Electronics,13,800,10400,1
+2026-01-16,Port Harcourt,Gideon,Tablet,Electronics,8,300,2400,4
+2026-03-28,Lagos,Dami,Headphones,Accessories,19,50,950,4
+2026-03-07,Lagos,Ade,Tablet,Electronics,2,300,600,3
+2026-02-21,Abuja,Luke,Charger,Accessories,17,20,340,2
+2026-01-15,Kano,Joy,Charger,Accessories,6,20,120,3
+2026-01-08,Abuja,Fatima,Laptop,Electronics,5,800,4000,5
+2026-01-05,Abuja,Ola,Charger,Accessories,12,20,240,4
+2026-02-16,Lagos,Hauwa,Headphones,Accessories,6,50,300,3
+2026-02-21,Kano,Dami,Headphones,Accessories,8,50,400,5
+2026-01-30,Abuja,Ngozi,Laptop,Electronics,18,800,14400,3
+2026-03-04,Lagos,Emeka,Laptop,Electronics,17,800,13600,3
+2026-03-31,Abuja,Ibrahim,Phone,Electronics,5,250,1250,5
+2026-01-12,Abuja,Kemi,Phone,Electronics,9,250,2250,5
+2026-02-27,Abuja,Dami,Laptop,Electronics,1,800,800,2
+2026-02-03,Abuja,Joy,Headphones,Accessories,1,50,50,1
+2026-01-01,Ibadan,Gideon,Charger,Accessories,8,20,160,5
+2026-03-05,Ibadan,Fatima,Tablet,Electronics,7,300,2100,5
+2026-03-17,Port Harcourt,Chidi,Laptop,Electronics,3,800,2400,2
+2026-02-20,Kano,Luke,Headphones,Accessories,16,50,800,5
+2026-03-10,Lagos,Emeka,Laptop,Electronics,14,800,11200,1
+2026-03-03,Abuja,Emeka,Charger,Accessories,14,20,280,4
+2026-03-17,Lagos,Gideon,Phone,Electronics,5,250,1250,2
+2026-03-26,Port Harcourt,Kemi,Tablet,Electronics,16,300,4800,4
+2026-01-23,Kano,Ade,Headphones,Accessories,1,50,50,2
+2026-03-10,Abuja,Emeka,Tablet,Electronics,10,300,3000,4
+2026-02-21,Port Harcourt,Emeka,Headphones,Accessories,2,50,100,2
+2026-02-27,Abuja,Dami,Headphones,Accessories,19,50,950,1
+2026-01-04,Lagos,Hauwa,Laptop,Electronics,5,800,4000,2
+2026-02-01,Kano,Kemi,Laptop,Electronics,17,800,13600,3
+2026-01-24,Abuja,Kemi,Laptop,Electronics,20,800,16000,4
+2026-02-04,Port Harcourt,Luke,Laptop,Electronics,18,800,14400,4
+2026-02-02,Kano,Emeka,Tablet,Electronics,1,300,300,5
+2026-02-12,Ibadan,Luke,Headphones,Accessories,19,50,950,5
+2026-03-08,Ibadan,Fatima,Phone,Electronics,12,250,3000,1
+2026-02-09,Ibadan,Ibrahim,Headphones,Accessories,1,50,50,2
+2026-02-13,Lagos,Hauwa,Laptop,Electronics,11,800,8800,5
+2026-01-12,Lagos,Hauwa,Headphones,Accessories,13,50,650,2
+2026-02-04,Lagos,Joy,Headphones,Accessories,19,50,950,1
+2026-01-26,Port Harcourt,Kemi,Tablet,Electronics,8,300,2400,2
+2026-01-07,Lagos,Emeka,Phone,Electronics,2,250,500,4
+2026-03-16,Abuja,Ola,Tablet,Electronics,18,300,5400,5
+2026-03-30,Kano,Bola,Phone,Electronics,4,250,1000,5
+2026-01-10,Port Harcourt,Emeka,Tablet,Electronics,4,300,1200,5
+2026-01-24,Kano,Mary,Tablet,Electronics,9,300,2700,3
+2026-02-05,Ibadan,Mary,Tablet,Electronics,17,300,5100,2
+2026-01-24,Ibadan,Ibrahim,Tablet,Electronics,17,300,5100,5
+2026-02-24,Ibadan,Chidi,Tablet,Electronics,12,300,3600,5
+2026-01-30,Port Harcourt,Ola,Laptop,Electronics,3,800,2400,1
+2026-03-03,Ibadan,Ade,Laptop,Electronics,17,800,13600,4
+2026-03-30,Abuja,Ngozi,Tablet,Electronics,16,300,4800,5
+2026-02-18,Port Harcourt,Chidi,Headphones,Accessories,19,50,950,4
+2026-03-02,Port Harcourt,Luke,Phone,Electronics,12,250,3000,1
+2026-03-17,Lagos,Ola,Headphones,Accessories,19,50,950,1
+2026-01-28,Abuja,Mary,Charger,Accessories,7,20,140,4
+2026-01-16,Lagos,Dami,Headphones,Accessories,19,50,950,5
+2026-01-12,Lagos,Fatima,Laptop,Electronics,5,800,4000,1
+2026-03-26,Kano,Ibrahim,Tablet,Electronics,20,300,6000,4
+2026-02-26,Ibadan,Ola,Laptop,Electronics,16,800,12800,5
+2026-02-27,Abuja,Mary,Charger,Accessories,10,20,200,2
+2026-02-04,Lagos,Ola,Charger,Accessories,5,20,100,5
+2026-03-16,Lagos,Chidi,Laptop,Electronics,11,800,8800,2
+2026-03-17,Abuja,Dami,Charger,Accessories,15,20,300,1
+2026-02-27,Ibadan,Ngozi,Tablet,Electronics,10,300,3000,4
+2026-01-07,Kano,Mary,Charger,Accessories,17,20,340,5
+2026-02-11,Abuja,Bola,Laptop,Electronics,8,800,6400,1
+2026-01-27,Ibadan,Chidi,Phone,Electronics,18,250,4500,2
+2026-01-05,Lagos,Fatima,Headphones,Accessories,2,50,100,5
+2026-02-07,Port Harcourt,Joy,Headphones,Accessories,5,50,250,3
+2026-03-06,Port Harcourt,Dami,Phone,Electronics,8,250,2000,4
+2026-03-12,Port Harcourt,Joy,Laptop,Electronics,17,800,13600,1
+2026-01-04,Lagos,Emeka,Charger,Accessories,13,20,260,4
+2026-01-31,Abuja,Bola,Charger,Accessories,6,20,120,3
+2026-02-23,Abuja,Kemi,Charger,Accessories,12,20,240,3
+2026-03-31,Port Harcourt,Ade,Tablet,Electronics,10,300,3000,3
+2026-03-08,Lagos,Ibrahim,Tablet,Electronics,7,300,2100,5
+2026-02-27,Port Harcourt,Joy,Tablet,Electronics,13,300,3900,4
+2026-03-02,Kano,Bola,Charger,Accessories,8,20,160,1
+2026-01-01,Port Harcourt,Mary,Headphones,Accessories,7,50,350,3
+2026-03-03,Abuja,Ibrahim,Tablet,Electronics,13,300,3900,1
+2026-01-25,Abuja,Ngozi,Charger,Accessories,17,20,340,1
+2026-01-06,Port Harcourt,Joy,Tablet,Electronics,6,300,1800,2
+2026-02-14,Lagos,Ola,Headphones,Accessories,12,50,600,5
+2026-01-21,Lagos,Luke,Tablet,Electronics,15,300,4500,5
+2026-02-05,Kano,Ngozi,Phone,Electronics,11,250,2750,3
+2026-01-20,Kano,Fatima,Tablet,Electronics,19,300,5700,1
+2026-02-16,Abuja,Ade,Laptop,Electronics,18,800,14400,1
+2026-01-14,Kano,Bola,Phone,Electronics,17,250,4250,1
+2026-01-16,Lagos,Joy,Charger,Accessories,3,20,60,1
+2026-01-12,Ibadan,Luke,Headphones,Accessories,11,50,550,2
+2026-03-13,Kano,Chidi,Charger,Accessories,16,20,320,4
+2026-02-05,Lagos,Ola,Tablet,Electronics,8,300,2400,2
+2026-02-27,Ibadan,Mary,Headphones,Accessories,8,50,400,4
+2026-01-28,Ibadan,Hauwa,Laptop,Electronics,18,800,14400,4
+2026-02-10,Port Harcourt,Fatima,Charger,Accessories,5,20,100,4
+2026-03-14,Kano,Ade,Laptop,Electronics,17,800,13600,1
+2026-03-18,Ibadan,Kemi,Phone,Electronics,20,250,5000,4
+2026-01-29,Port Harcourt,Ibrahim,Charger,Accessories,16,20,320,5
+2026-02-04,Abuja,Mary,Tablet,Electronics,14,300,4200,5
+2026-03-23,Abuja,Kemi,Phone,Electronics,6,250,1500,3
+2026-02-16,Port Harcourt,Ngozi,Tablet,Electronics,5,300,1500,1
+2026-01-10,Ibadan,Luke,Charger,Accessories,2,20,40,2
+2026-01-05,Ibadan,Hauwa,Tablet,Electronics,13,300,3900,1
+2026-01-18,Abuja,Ibrahim,Tablet,Electronics,1,300,300,1
+2026-03-26,Ibadan,Luke,Tablet,Electronics,11,300,3300,2
+2026-03-18,Abuja,Chidi,Charger,Accessories,17,20,340,1
+2026-01-01,Ibadan,Dami,Headphones,Accessories,2,50,100,5
+2026-02-24,Port Harcourt,Emeka,Laptop,Electronics,16,800,12800,4
+2026-03-10,Lagos,Gideon,Tablet,Electronics,17,300,5100,5
+2026-01-03,Port Harcourt,Fatima,Laptop,Electronics,6,800,4800,5
+2026-02-22,Lagos,Gideon,Headphones,Accessories,5,50,250,5
+2026-03-15,Lagos,Kemi,Phone,Electronics,10,250,2500,3
+2026-03-26,Abuja,Ngozi,Headphones,Accessories,17,50,850,1
+2026-01-01,Abuja,Gideon,Headphones,Accessories,14,50,700,3
+2026-03-18,Port Harcourt,Hauwa,Headphones,Accessories,13,50,650,4
+2026-02-01,Abuja,Joy,Charger,Accessories,1,20,20,2
+2026-02-08,Ibadan,Ibrahim,Headphones,Accessories,8,50,400,2
+2026-02-23,Kano,Hauwa,Laptop,Electronics,2,800,1600,3
+2026-01-12,Port Harcourt,Joy,Tablet,Electronics,18,300,5400,1
+2026-01-05,Port Harcourt,Joy,Tablet,Electronics,12,300,3600,3
+2026-02-16,Ibadan,Ola,Tablet,Electronics,17,300,5100,5
+2026-03-07,Abuja,Dami,Laptop,Electronics,14,800,11200,3
+2026-02-07,Abuja,Hauwa,Tablet,Electronics,19,300,5700,4
+2026-02-07,Ibadan,Gideon,Tablet,Electronics,2,300,600,2
+2026-03-23,Ibadan,Ibrahim,Charger,Accessories,2,20,40,3
+2026-03-04,Kano,Joy,Phone,Electronics,19,250,4750,2
+2026-02-07,Abuja,Joy,Tablet,Electronics,20,300,6000,1
+2026-01-30,Kano,Hauwa,Charger,Accessories,15,20,300,2
+2026-03-22,Kano,Mary,Tablet,Electronics,19,300,5700,5
+2026-01-10,Ibadan,Chidi,Charger,Accessories,4,20,80,1
+2026-01-17,Lagos,Fatima,Tablet,Electronics,10,300,3000,4
+2026-03-29,Lagos,Emeka,Headphones,Accessories,20,50,1000,5
+2026-01-06,Ibadan,Gideon,Phone,Electronics,2,250,500,5
+2026-03-18,Port Harcourt,Ade,Phone,Electronics,2,250,500,3
+2026-03-16,Abuja,Luke,Headphones,Accessories,11,50,550,3
+2026-01-23,Abuja,Bola,Charger,Accessories,15,20,300,3
+2026-01-08,Kano,Ola,Headphones,Accessories,16,50,800,4
+2026-01-04,Kano,Gideon,Tablet,Electronics,8,300,2400,1
+2026-03-08,Kano,Ade,Headphones,Accessories,3,50,150,3
+2026-03-02,Ibadan,Fatima,Charger,Accessories,18,20,360,2
+2026-01-19,Kano,Ibrahim,Phone,Electronics,19,250,4750,5
+2026-03-23,Kano,Emeka,Phone,Electronics,5,250,1250,4
+2026-03-02,Lagos,Bola,Laptop,Electronics,10,800,8000,5
+2026-01-01,Port Harcourt,Fatima,Charger,Accessories,6,20,120,5
+2026-01-12,Abuja,Fatima,Laptop,Electronics,9,800,7200,2
+2026-02-03,Kano,Ola,Charger,Accessories,14,20,280,1
+2026-03-31,Kano,Ngozi,Charger,Accessories,14,20,280,5
+2026-01-26,Ibadan,Ola,Headphones,Accessories,9,50,450,1
+2026-03-27,Kano,Hauwa,Phone,Electronics,15,250,3750,3
+2026-03-02,Ibadan,Kemi,Charger,Accessories,16,20,320,1
+2026-01-01,Kano,Ola,Charger,Accessories,4,20,80,1
+2026-02-21,Lagos,Fatima,Headphones,Accessories,3,50,150,2
+2026-03-29,Ibadan,Joy,Charger,Accessories,14,20,280,2
+2026-01-26,Kano,Bola,Phone,Electronics,13,250,3250,3
+2026-01-07,Ibadan,Bola,Headphones,Accessories,19,50,950,3
+2026-01-23,Lagos,Hauwa,Phone,Electronics,15,250,3750,3
+2026-01-18,Kano,Kemi,Headphones,Accessories,15,50,750,2
+2026-01-15,Port Harcourt,Ibrahim,Headphones,Accessories,6,50,300,1
+2026-01-28,Kano,Ngozi,Headphones,Accessories,5,50,250,2
+2026-02-26,Kano,Hauwa,Laptop,Electronics,7,800,5600,1
+2026-03-27,Port Harcourt,Luke,Laptop,Electronics,7,800,5600,2
+2026-01-25,Port Harcourt,Mary,Laptop,Electronics,12,800,9600,1
+2026-03-25,Ibadan,Ngozi,Charger,Accessories,13,20,260,1
+2026-01-10,Kano,Fatima,Laptop,Electronics,4,800,3200,3
+2026-01-18,Ibadan,Fatima,Charger,Accessories,9,20,180,4
+2026-03-27,Port Harcourt,Fatima,Phone,Electronics,15,250,3750,2
+2026-01-08,Ibadan,Joy,Laptop,Electronics,15,800,12000,1
+2026-03-24,Kano,Chidi,Tablet,Electronics,12,300,3600,2
+2026-01-06,Kano,Gideon,Laptop,Electronics,9,800,7200,4
+2026-02-28,Ibadan,Emeka,Laptop,Electronics,2,800,1600,3
+2026-03-11,Lagos,Kemi,Laptop,Electronics,13,800,10400,5
+2026-02-22,Abuja,Gideon,Laptop,Electronics,1,800,800,5
+2026-03-11,Port Harcourt,Ola,Charger,Accessories,6,20,120,4
+2026-03-03,Lagos,Ibrahim,Tablet,Electronics,11,300,3300,1
+2026-01-31,Abuja,Mary,Headphones,Accessories,3,50,150,5
+2026-01-24,Abuja,Mary,Charger,Accessories,4,20,80,2
+2026-03-16,Ibadan,Chidi,Laptop,Electronics,20,800,16000,4
+2026-01-06,Ibadan,Hauwa,Tablet,Electronics,15,300,4500,1
+2026-02-20,Port Harcourt,Ade,Headphones,Accessories,6,50,300,1
+2026-03-20,Abuja,Bola,Phone,Electronics,2,250,500,3
+2026-01-26,Ibadan,Bola,Laptop,Electronics,8,800,6400,3
+2026-02-13,Port Harcourt,Joy,Charger,Accessories,13,20,260,5
+2026-01-26,Lagos,Ibrahim,Headphones,Accessories,6,50,300,4
+2026-03-25,Port Harcourt,Fatima,Tablet,Electronics,19,300,5700,1
+2026-01-12,Ibadan,Mary,Headphones,Accessories,20,50,1000,1
+2026-03-05,Kano,Ade,Tablet,Electronics,14,300,4200,5
+2026-03-18,Lagos,Luke,Laptop,Electronics,11,800,8800,3
+2026-02-02,Kano,Ngozi,Headphones,Accessories,3,50,150,2
+2026-01-05,Abuja,Ade,Laptop,Electronics,10,800,8000,2
+2026-01-02,Kano,Luke,Tablet,Electronics,12,300,3600,5
+2026-01-02,Port Harcourt,Ibrahim,Tablet,Electronics,8,300,2400,4
+2026-03-04,Kano,Gideon,Charger,Accessories,1,20,20,5
+2026-01-17,Lagos,Dami,Laptop,Electronics,9,800,7200,1
+2026-01-15,Port Harcourt,Dami,Charger,Accessories,11,20,220,3
+2026-03-10,Port Harcourt,Mary,Laptop,Electronics,17,800,13600,4
+2026-02-19,Lagos,Hauwa,Laptop,Electronics,12,800,9600,5
+2026-01-09,Kano,Ibrahim,Laptop,Electronics,11,800,8800,2
+2026-02-04,Abuja,Gideon,Tablet,Electronics,12,300,3600,1
+2026-03-05,Ibadan,Dami,Laptop,Electronics,8,800,6400,4
+2026-01-11,Kano,Ade,Phone,Electronics,8,250,2000,1
+2026-01-14,Abuja,Ngozi,Charger,Accessories,5,20,100,4
+2026-03-26,Lagos,Gideon,Headphones,Accessories,3,50,150,5
+2026-03-24,Lagos,Fatima,Laptop,Electronics,5,800,4000,3
+2026-01-26,Ibadan,Fatima,Tablet,Electronics,14,300,4200,4
+2026-02-11,Kano,Hauwa,Laptop,Electronics,13,800,10400,1
+2026-02-09,Ibadan,Ngozi,Phone,Electronics,18,250,4500,3
+2026-01-23,Lagos,Dami,Charger,Accessories,6,20,120,1
+2026-03-07,Port Harcourt,Mary,Tablet,Electronics,17,300,5100,5
+2026-02-20,Port Harcourt,Joy,Laptop,Electronics,8,800,6400,3
+2026-01-06,Kano,Dami,Tablet,Electronics,6,300,1800,3
+2026-02-20,Ibadan,Ngozi,Charger,Accessories,7,20,140,2
+2026-01-15,Kano,Ibrahim,Charger,Accessories,20,20,400,5
+2026-01-27,Lagos,Dami,Headphones,Accessories,1,50,50,4
+2026-02-26,Lagos,Joy,Tablet,Electronics,6,300,1800,1
+2026-01-27,Lagos,Joy,Phone,Electronics,5,250,1250,1
+2026-03-27,Abuja,Luke,Laptop,Electronics,4,800,3200,2
+2026-01-05,Lagos,Hauwa,Laptop,Electronics,10,800,8000,3
+2026-02-07,Lagos,Dami,Headphones,Accessories,10,50,500,5
+2026-03-29,Kano,Hauwa,Tablet,Electronics,15,300,4500,4
+2026-01-29,Kano,Ngozi,Headphones,Accessories,15,50,750,5
+2026-03-09,Port Harcourt,Mary,Phone,Electronics,15,250,3750,4
+2026-01-02,Lagos,Luke,Laptop,Electronics,13,800,10400,3
+2026-02-05,Port Harcourt,Dami,Phone,Electronics,19,250,4750,4
+2026-01-27,Port Harcourt,Emeka,Charger,Accessories,11,20,220,5
+2026-01-11,Abuja,Chidi,Phone,Electronics,20,250,5000,2
+2026-02-07,Lagos,Dami,Tablet,Electronics,8,300,2400,2
+2026-01-12,Port Harcourt,Chidi,Charger,Accessories,14,20,280,2
+2026-03-03,Ibadan,Ade,Charger,Accessories,13,20,260,2
+2026-03-01,Lagos,Luke,Headphones,Accessories,1,50,50,3
+2026-03-09,Ibadan,Fatima,Tablet,Electronics,12,300,3600,5
+2026-03-13,Lagos,Joy,Tablet,Electronics,5,300,1500,2
+2026-01-31,Port Harcourt,Ade,Phone,Electronics,17,250,4250,2
+2026-02-20,Port Harcourt,Joy,Headphones,Accessories,9,50,450,5
+2026-02-09,Port Harcourt,Chidi,Laptop,Electronics,14,800,11200,1
+2026-01-23,Abuja,Fatima,Headphones,Accessories,11,50,550,1
+2026-01-21,Abuja,Kemi,Headphones,Accessories,14,50,700,2
+2026-02-05,Kano,Mary,Charger,Accessories,14,20,280,1
+2026-03-04,Lagos,Ade,Tablet,Electronics,1,300,300,3
+2026-01-15,Abuja,Ade,Charger,Accessories,8,20,160,5
+2026-03-14,Ibadan,Dami,Laptop,Electronics,15,800,12000,5
+2026-03-15,Lagos,Ade,Tablet,Electronics,9,300,2700,4
+2026-02-04,Abuja,Ngozi,Laptop,Electronics,9,800,7200,4
+2026-02-07,Lagos,Hauwa,Headphones,Accessories,11,50,550,2
+2026-03-23,Kano,Kemi,Headphones,Accessories,7,50,350,3
+2026-01-17,Lagos,Ibrahim,Laptop,Electronics,2,800,1600,3
+2026-02-20,Kano,Dami,Headphones,Accessories,12,50,600,1
+2026-02-21,Kano,Emeka,Laptop,Electronics,7,800,5600,5
+2026-02-18,Abuja,Luke,Laptop,Electronics,1,800,800,5
+2026-01-22,Kano,Emeka,Tablet,Electronics,11,300,3300,2
+2026-03-26,Port Harcourt,Hauwa,Phone,Electronics,18,250,4500,1
+2026-03-22,Ibadan,Fatima,Headphones,Accessories,7,50,350,4
+2026-02-18,Ibadan,Ibrahim,Tablet,Electronics,9,300,2700,4
+2026-02-18,Ibadan,Chidi,Headphones,Accessories,8,50,400,1
+2026-03-28,Lagos,Ola,Laptop,Electronics,13,800,10400,3
+2026-03-03,Lagos,Gideon,Charger,Accessories,19,20,380,5
+2026-02-14,Lagos,Luke,Tablet,Electronics,17,300,5100,5
+2026-02-09,Port Harcourt,Fatima,Charger,Accessories,16,20,320,3
+2026-01-01,Kano,Ola,Headphones,Accessories,18,50,900,3
+2026-03-07,Abuja,Kemi,Laptop,Electronics,15,800,12000,4
+2026-02-07,Ibadan,Dami,Laptop,Electronics,17,800,13600,3
+2026-01-01,Port Harcourt,Luke,Laptop,Electronics,4,800,3200,5
+2026-01-03,Lagos,Emeka,Charger,Accessories,7,20,140,2
+2026-03-24,Port Harcourt,Emeka,Laptop,Electronics,10,800,8000,2
+2026-03-28,Ibadan,Luke,Headphones,Accessories,1,50,50,4
+2026-01-07,Abuja,Dami,Phone,Electronics,18,250,4500,5
+2026-03-06,Kano,Fatima,Headphones,Accessories,8,50,400,1
+2026-03-29,Abuja,Emeka,Tablet,Electronics,3,300,900,3
+2026-02-23,Port Harcourt,Chidi,Charger,Accessories,8,20,160,1
+2026-03-08,Ibadan,Mary,Laptop,Electronics,15,800,12000,3
+2026-01-08,Port Harcourt,Fatima,Laptop,Electronics,1,800,800,2
+2026-03-29,Abuja,Mary,Tablet,Electronics,3,300,900,3
+2026-03-09,Lagos,Joy,Charger,Accessories,16,20,320,4
+2026-02-23,Port Harcourt,Bola,Tablet,Electronics,5,300,1500,5
+2026-02-24,Port Harcourt,Emeka,Headphones,Accessories,14,50,700,2
+2026-03-15,Kano,Fatima,Tablet,Electronics,7,300,2100,1
+2026-01-19,Abuja,Ola,Phone,Electronics,19,250,4750,4
+2026-01-02,Port Harcourt,Emeka,Headphones,Accessories,18,50,900,1
+2026-03-10,Port Harcourt,Fatima,Phone,Electronics,15,250,3750,4
+2026-01-02,Lagos,Ngozi,Phone,Electronics,11,250,2750,3
+2026-01-20,Port Harcourt,Ngozi,Charger,Accessories,12,20,240,5
+2026-02-07,Port Harcourt,Luke,Tablet,Electronics,5,300,1500,1
+2026-02-22,Lagos,Bola,Laptop,Electronics,2,800,1600,4
+2026-03-27,Kano,Dami,Charger,Accessories,3,20,60,4
+2026-03-15,Abuja,Dami,Headphones,Accessories,17,50,850,3
+2026-03-28,Ibadan,Ibrahim,Tablet,Electronics,14,300,4200,1
+2026-03-22,Lagos,Gideon,Charger,Accessories,18,20,360,1
+2026-03-07,Port Harcourt,Luke,Tablet,Electronics,8,300,2400,5
+2026-03-14,Kano,Ola,Headphones,Accessories,7,50,350,3
+2026-01-04,Ibadan,Fatima,Charger,Accessories,14,20,280,2
+2026-03-28,Port Harcourt,Chidi,Laptop,Electronics,13,800,10400,5
+2026-03-11,Lagos,Bola,Phone,Electronics,11,250,2750,2
+2026-02-10,Kano,Luke,Laptop,Electronics,10,800,8000,2
+2026-02-06,Port Harcourt,Kemi,Charger,Accessories,17,20,340,1
+2026-03-17,Kano,Gideon,Phone,Electronics,6,250,1500,5
+2026-03-27,Ibadan,Chidi,Charger,Accessories,10,20,200,5
+2026-02-09,Ibadan,Luke,Tablet,Electronics,6,300,1800,2
+2026-02-22,Lagos,Gideon,Headphones,Accessories,12,50,600,2
+2026-01-17,Lagos,Mary,Laptop,Electronics,13,800,10400,2
+2026-03-05,Ibadan,Luke,Laptop,Electronics,14,800,11200,2
+2026-03-06,Lagos,Hauwa,Charger,Accessories,11,20,220,3
+2026-01-26,Kano,Emeka,Phone,Electronics,4,250,1000,5
+2026-02-09,Port Harcourt,Mary,Phone,Electronics,11,250,2750,3
+2026-02-28,Abuja,Hauwa,Charger,Accessories,4,20,80,3
+2026-02-24,Port Harcourt,Chidi,Tablet,Electronics,2,300,600,5
+2026-02-05,Ibadan,Chidi,Laptop,Electronics,1,800,800,4
+2026-03-22,Ibadan,Chidi,Phone,Electronics,19,250,4750,3
+2026-03-14,Lagos,Mary,Laptop,Electronics,13,800,10400,2
+2026-03-14,Ibadan,Gideon,Charger,Accessories,2,20,40,1
+2026-01-17,Port Harcourt,Ngozi,Tablet,Electronics,8,300,2400,1
+2026-02-11,Lagos,Dami,Charger,Accessories,11,20,220,1
+2026-02-04,Lagos,Luke,Laptop,Electronics,7,800,5600,3
+2026-02-13,Kano,Fatima,Headphones,Accessories,18,50,900,3
+2026-01-12,Ibadan,Ola,Laptop,Electronics,6,800,4800,3
+2026-02-13,Port Harcourt,Bola,Laptop,Electronics,5,800,4000,3
+2026-03-02,Abuja,Joy,Charger,Accessories,17,20,340,1
+2026-02-26,Kano,Chidi,Phone,Electronics,10,250,2500,1
+2026-01-12,Kano,Ade,Phone,Electronics,15,250,3750,3
+2026-01-21,Ibadan,Hauwa,Tablet,Electronics,8,300,2400,1
+2026-03-21,Ibadan,Mary,Phone,Electronics,5,250,1250,1
+2026-03-30,Port Harcourt,Luke,Laptop,Electronics,18,800,14400,4
+2026-02-28,Ibadan,Ngozi,Tablet,Electronics,15,300,4500,2
+2026-01-26,Kano,Ngozi,Charger,Accessories,9,20,180,2
+2026-03-12,Port Harcourt,Ibrahim,Phone,Electronics,16,250,4000,1
+2026-01-14,Lagos,Kemi,Headphones,Accessories,7,50,350,5
+2026-01-09,Lagos,Fatima,Headphones,Accessories,7,50,350,3
+2026-03-13,Lagos,Joy,Phone,Electronics,16,250,4000,2
+2026-02-08,Port Harcourt,Ibrahim,Tablet,Electronics,18,300,5400,3
+2026-02-28,Ibadan,Dami,Headphones,Accessories,18,50,900,2
+2026-01-17,Lagos,Mary,Charger,Accessories,7,20,140,3
+2026-03-01,Ibadan,Luke,Tablet,Electronics,12,300,3600,5
+2026-01-03,Port Harcourt,Luke,Laptop,Electronics,2,800,1600,5
+2026-02-09,Ibadan,Luke,Phone,Electronics,11,250,2750,2
+2026-02-08,Lagos,Emeka,Laptop,Electronics,12,800,9600,1
+2026-03-27,Port Harcourt,Kemi,Charger,Accessories,4,20,80,1
+2026-03-23,Kano,Hauwa,Laptop,Electronics,13,800,10400,1
+2026-02-11,Ibadan,Dami,Laptop,Electronics,16,800,12800,4
+2026-02-24,Kano,Gideon,Laptop,Electronics,2,800,1600,3
+2026-02-03,Kano,Ibrahim,Laptop,Electronics,10,800,8000,3
+2026-01-13,Kano,Ngozi,Tablet,Electronics,13,300,3900,2
+2026-02-08,Lagos,Gideon,Laptop,Electronics,3,800,2400,4
+2026-03-03,Abuja,Joy,Headphones,Accessories,17,50,850,5
+2026-02-26,Port Harcourt,Joy,Charger,Accessories,12,20,240,4
+2026-01-10,Port Harcourt,Chidi,Phone,Electronics,15,250,3750,1
+2026-03-25,Lagos,Kemi,Tablet,Electronics,7,300,2100,5
+2026-02-18,Port Harcourt,Gideon,Headphones,Accessories,1,50,50,3
+2026-01-14,Port Harcourt,Bola,Headphones,Accessories,13,50,650,2
+2026-01-18,Port Harcourt,Emeka,Phone,Electronics,4,250,1000,5
+2026-03-06,Port Harcourt,Luke,Phone,Electronics,16,250,4000,5
+2026-03-20,Lagos,Ibrahim,Charger,Accessories,14,20,280,1
+2026-02-18,Kano,Kemi,Tablet,Electronics,15,300,4500,1
+2026-01-12,Abuja,Ola,Laptop,Electronics,4,800,3200,3
+2026-03-02,Lagos,Mary,Tablet,Electronics,5,300,1500,5
+2026-03-11,Abuja,Chidi,Headphones,Accessories,11,50,550,3
+2026-01-25,Kano,Gideon,Tablet,Electronics,13,300,3900,4
+2026-02-28,Kano,Ola,Headphones,Accessories,4,50,200,4
+2026-03-15,Port Harcourt,Ola,Charger,Accessories,19,20,380,3
+2026-02-26,Port Harcourt,Kemi,Charger,Accessories,2,20,40,2
+2026-01-03,Kano,Ola,Phone,Electronics,9,250,2250,5
+2026-02-23,Kano,Ade,Charger,Accessories,5,20,100,1
+2026-01-20,Abuja,Bola,Laptop,Electronics,9,800,7200,2
+2026-03-02,Port Harcourt,Ibrahim,Tablet,Electronics,17,300,5100,3
+2026-02-04,Ibadan,Ade,Headphones,Accessories,10,50,500,2
+2026-03-03,Ibadan,Hauwa,Charger,Accessories,18,20,360,1
+2026-02-01,Port Harcourt,Luke,Phone,Electronics,3,250,750,3
+2026-01-13,Lagos,Ade,Tablet,Electronics,6,300,1800,5
+2026-03-30,Ibadan,Dami,Phone,Electronics,15,250,3750,1
+2026-01-14,Abuja,Fatima,Laptop,Electronics,4,800,3200,5
+2026-01-11,Kano,Chidi,Tablet,Electronics,2,300,600,1
+2026-01-29,Lagos,Emeka,Laptop,Electronics,3,800,2400,1
+2026-01-25,Kano,Ngozi,Laptop,Electronics,3,800,2400,2
+2026-02-11,Ibadan,Hauwa,Headphones,Accessories,12,50,600,1
+2026-02-09,Abuja,Kemi,Phone,Electronics,15,250,3750,1
+2026-01-11,Ibadan,Mary,Phone,Electronics,5,250,1250,3
+2026-03-29,Ibadan,Ibrahim,Laptop,Electronics,2,800,1600,4
+2026-02-07,Port Harcourt,Ngozi,Phone,Electronics,15,250,3750,3
+2026-02-17,Port Harcourt,Hauwa,Headphones,Accessories,5,50,250,2
+2026-03-11,Port Harcourt,Kemi,Headphones,Accessories,18,50,900,5
+2026-03-18,Kano,Emeka,Headphones,Accessories,16,50,800,4
+2026-03-18,Lagos,Ola,Charger,Accessories,5,20,100,1
+2026-02-09,Port Harcourt,Ngozi,Laptop,Electronics,18,800,14400,5
+2026-02-27,Kano,Joy,Phone,Electronics,19,250,4750,3
+2026-02-09,Abuja,Bola,Tablet,Electronics,8,300,2400,3
+2026-02-02,Abuja,Hauwa,Laptop,Electronics,13,800,10400,3
+2026-02-09,Ibadan,Ola,Tablet,Electronics,16,300,4800,4
+2026-02-28,Kano,Hauwa,Laptop,Electronics,1,800,800,3
+2026-02-10,Lagos,Ade,Phone,Electronics,16,250,4000,5
+2026-02-14,Kano,Chidi,Laptop,Electronics,11,800,8800,1
+2026-03-04,Ibadan,Luke,Laptop,Electronics,10,800,8000,3
+2026-03-01,Abuja,Dami,Charger,Accessories,6,20,120,5
+2026-02-14,Lagos,Bola,Laptop,Electronics,11,800,8800,2
+2026-01-31,Ibadan,Emeka,Laptop,Electronics,19,800,15200,2
+2026-02-01,Kano,Chidi,Laptop,Electronics,10,800,8000,3
+2026-01-31,Ibadan,Dami,Laptop,Electronics,7,800,5600,2
+2026-01-02,Kano,Ibrahim,Laptop,Electronics,4,800,3200,5
+2026-02-08,Port Harcourt,Ibrahim,Laptop,Electronics,12,800,9600,2
+2026-02-15,Lagos,Dami,Laptop,Electronics,13,800,10400,3
+2026-01-17,Lagos,Ola,Tablet,Electronics,17,300,5100,2
+2026-02-04,Port Harcourt,Ngozi,Charger,Accessories,13,20,260,3
+2026-03-15,Abuja,Bola,Charger,Accessories,7,20,140,1
+2026-03-04,Abuja,Emeka,Headphones,Accessories,2,50,100,4
+2026-02-06,Abuja,Ibrahim,Headphones,Accessories,15,50,750,5
+2026-01-20,Abuja,Ola,Phone,Electronics,4,250,1000,4
+2026-03-09,Lagos,Joy,Headphones,Accessories,18,50,900,3
+2026-01-12,Port Harcourt,Bola,Tablet,Electronics,17,300,5100,1
+2026-03-06,Ibadan,Fatima,Headphones,Accessories,10,50,500,2
+2026-02-19,Lagos,Dami,Phone,Electronics,18,250,4500,5
+2026-02-05,Ibadan,Ade,Charger,Accessories,12,20,240,3
+2026-02-21,Kano,Ola,Charger,Accessories,3,20,60,5
+2026-01-07,Ibadan,Bola,Tablet,Electronics,12,300,3600,5
+2026-02-02,Lagos,Bola,Charger,Accessories,11,20,220,3
+2026-02-27,Ibadan,Chidi,Tablet,Electronics,11,300,3300,2
+2026-02-15,Kano,Chidi,Headphones,Accessories,2,50,100,2
+2026-03-22,Ibadan,Luke,Headphones,Accessories,4,50,200,3
+2026-02-08,Abuja,Ibrahim,Phone,Electronics,13,250,3250,5
+2026-02-01,Ibadan,Gideon,Charger,Accessories,11,20,220,2
+2026-03-19,Port Harcourt,Gideon,Tablet,Electronics,15,300,4500,4
+2026-01-27,Kano,Fatima,Phone,Electronics,11,250,2750,3
+2026-02-25,Lagos,Bola,Phone,Electronics,17,250,4250,4
+2026-03-21,Kano,Mary,Headphones,Accessories,15,50,750,5
+2026-01-06,Kano,Ade,Headphones,Accessories,20,50,1000,3
+2026-01-03,Abuja,Ngozi,Charger,Accessories,5,20,100,3
+2026-02-27,Abuja,Luke,Charger,Accessories,1,20,20,4
+2026-01-15,Port Harcourt,Ola,Charger,Accessories,6,20,120,2
+2026-03-05,Abuja,Ola,Phone,Electronics,3,250,750,1
+2026-01-18,Kano,Luke,Laptop,Electronics,12,800,9600,4
+2026-01-27,Kano,Ibrahim,Phone,Electronics,16,250,4000,4
+2026-03-30,Abuja,Fatima,Charger,Accessories,14,20,280,1
+2026-03-20,Port Harcourt,Mary,Phone,Electronics,8,250,2000,3
+2026-02-19,Ibadan,Ibrahim,Phone,Electronics,14,250,3500,4
+2026-01-03,Lagos,Kemi,Tablet,Electronics,7,300,2100,5
+2026-02-22,Abuja,Bola,Headphones,Accessories,12,50,600,4
+2026-01-20,Lagos,Mary,Phone,Electronics,3,250,750,1
+2026-03-12,Abuja,Hauwa,Tablet,Electronics,14,300,4200,1
+2026-03-25,Lagos,Luke,Headphones,Accessories,12,50,600,4
+2026-02-07,Lagos,Luke,Phone,Electronics,9,250,2250,1
+2026-03-29,Abuja,Hauwa,Laptop,Electronics,2,800,1600,3
+2026-03-22,Ibadan,Kemi,Headphones,Accessories,13,50,650,5
+2026-03-05,Ibadan,Chidi,Phone,Electronics,18,250,4500,2
+2026-02-07,Ibadan,Gideon,Tablet,Electronics,14,300,4200,3
+2026-03-30,Lagos,Dami,Tablet,Electronics,13,300,3900,1
+2026-02-10,Ibadan,Bola,Tablet,Electronics,6,300,1800,3
+2026-03-29,Ibadan,Ibrahim,Laptop,Electronics,19,800,15200,1
+2026-03-17,Kano,Gideon,Laptop,Electronics,17,800,13600,1
+2026-02-01,Abuja,Ola,Tablet,Electronics,14,300,4200,4
+2026-02-02,Lagos,Kemi,Headphones,Accessories,20,50,1000,2
+2026-02-01,Lagos,Ade,Headphones,Accessories,8,50,400,2
+2026-01-02,Kano,Ngozi,Charger,Accessories,1,20,20,1
+2026-03-18,Kano,Chidi,Tablet,Electronics,1,300,300,1
+2026-01-26,Ibadan,Gideon,Charger,Accessories,13,20,260,2
+2026-03-31,Lagos,Ibrahim,Headphones,Accessories,6,50,300,2
+2026-01-15,Lagos,Dami,Charger,Accessories,18,20,360,2
+2026-02-13,Abuja,Chidi,Tablet,Electronics,10,300,3000,1
+2026-03-16,Kano,Chidi,Headphones,Accessories,8,50,400,5
+2026-01-06,Lagos,Emeka,Laptop,Electronics,3,800,2400,1
+2026-03-14,Abuja,Joy,Charger,Accessories,6,20,120,1
+2026-03-17,Abuja,Fatima,Phone,Electronics,18,250,4500,2
+2026-03-03,Port Harcourt,Dami,Phone,Electronics,20,250,5000,3
+2026-03-16,Lagos,Fatima,Charger,Accessories,7,20,140,4
+2026-01-04,Kano,Ibrahim,Tablet,Electronics,16,300,4800,2
+2026-02-10,Lagos,Kemi,Phone,Electronics,3,250,750,4
+2026-01-14,Lagos,Luke,Charger,Accessories,10,20,200,3
+2026-01-12,Kano,Gideon,Headphones,Accessories,18,50,900,4
+2026-01-25,Kano,Emeka,Tablet,Electronics,13,300,3900,5
+2026-01-19,Port Harcourt,Ngozi,Laptop,Electronics,19,800,15200,4
+2026-01-08,Abuja,Ngozi,Charger,Accessories,13,20,260,5
+2026-02-13,Abuja,Emeka,Phone,Electronics,19,250,4750,2
+2026-01-18,Ibadan,Mary,Headphones,Accessories,6,50,300,3
+2026-02-25,Lagos,Luke,Tablet,Electronics,5,300,1500,1
+2026-01-28,Lagos,Fatima,Charger,Accessories,3,20,60,2
+2026-02-04,Kano,Kemi,Phone,Electronics,19,250,4750,5
+2026-01-07,Abuja,Kemi,Phone,Electronics,15,250,3750,4
+2026-03-26,Port Harcourt,Dami,Tablet,Electronics,17,300,5100,2
+2026-02-06,Port Harcourt,Ibrahim,Charger,Accessories,20,20,400,4
+2026-01-20,Kano,Ngozi,Laptop,Electronics,12,800,9600,4
+2026-02-18,Ibadan,Hauwa,Laptop,Electronics,18,800,14400,3
+2026-02-05,Abuja,Bola,Phone,Electronics,9,250,2250,2
+2026-03-07,Kano,Luke,Phone,Electronics,2,250,500,2
+2026-01-06,Lagos,Chidi,Tablet,Electronics,4,300,1200,2
+2026-02-27,Ibadan,Kemi,Phone,Electronics,19,250,4750,5
+2026-01-03,Port Harcourt,Joy,Charger,Accessories,12,20,240,5
+2026-02-09,Kano,Joy,Laptop,Electronics,18,800,14400,5
+2026-01-26,Abuja,Ade,Charger,Accessories,15,20,300,4
+2026-03-28,Kano,Ibrahim,Laptop,Electronics,16,800,12800,2
+2026-01-14,Kano,Dami,Headphones,Accessories,12,50,600,2
+2026-03-10,Abuja,Luke,Tablet,Electronics,5,300,1500,5
+2026-03-03,Abuja,Luke,Laptop,Electronics,9,800,7200,4
+2026-01-14,Abuja,Emeka,Charger,Accessories,15,20,300,1
+2026-01-02,Lagos,Ibrahim,Phone,Electronics,20,250,5000,1
+2026-02-04,Kano,Gideon,Tablet,Electronics,2,300,600,5
+2026-03-06,Port Harcourt,Bola,Laptop,Electronics,5,800,4000,4
+2026-02-14,Abuja,Luke,Headphones,Accessories,4,50,200,3
+2026-03-08,Abuja,Mary,Laptop,Electronics,10,800,8000,2
+2026-03-17,Lagos,Ade,Headphones,Accessories,10,50,500,1
+2026-01-05,Lagos,Bola,Headphones,Accessories,1,50,50,4
+2026-02-12,Kano,Fatima,Phone,Electronics,8,250,2000,4
+2026-02-26,Abuja,Ola,Laptop,Electronics,1,800,800,4
+2026-02-06,Kano,Bola,Headphones,Accessories,11,50,550,5
+2026-02-06,Abuja,Ngozi,Tablet,Electronics,12,300,3600,1
+2026-02-13,Ibadan,Emeka,Phone,Electronics,17,250,4250,4
+2026-03-20,Port Harcourt,Hauwa,Phone,Electronics,15,250,3750,4
+2026-03-19,Kano,Fatima,Laptop,Electronics,20,800,16000,2
+2026-02-06,Port Harcourt,Luke,Laptop,Electronics,9,800,7200,4
+2026-02-04,Kano,Ade,Headphones,Accessories,1,50,50,5
+2026-02-02,Port Harcourt,Ola,Phone,Electronics,5,250,1250,1
+2026-03-19,Lagos,Bola,Tablet,Electronics,19,300,5700,4
+2026-01-20,Kano,Hauwa,Tablet,Electronics,10,300,3000,5
+2026-03-29,Lagos,Ade,Phone,Electronics,18,250,4500,3
+2026-03-30,Kano,Fatima,Laptop,Electronics,11,800,8800,2
+2026-02-25,Lagos,Ola,Headphones,Accessories,7,50,350,3
+2026-01-23,Ibadan,Ola,Laptop,Electronics,18,800,14400,4
+2026-03-25,Abuja,Emeka,Tablet,Electronics,6,300,1800,5
+2026-03-21,Lagos,Ngozi,Laptop,Electronics,20,800,16000,2
+2026-01-08,Port Harcourt,Bola,Phone,Electronics,10,250,2500,2
+2026-01-08,Abuja,Bola,Charger,Accessories,1,20,20,5
+2026-01-05,Kano,Chidi,Tablet,Electronics,6,300,1800,2
+2026-02-24,Kano,Gideon,Headphones,Accessories,1,50,50,2
+2026-03-15,Abuja,Emeka,Phone,Electronics,11,250,2750,2
+2026-01-17,Ibadan,Chidi,Headphones,Accessories,18,50,900,2
+2026-02-16,Lagos,Emeka,Tablet,Electronics,8,300,2400,1
+2026-03-13,Port Harcourt,Hauwa,Charger,Accessories,12,20,240,1
+2026-03-09,Lagos,Emeka,Tablet,Electronics,14,300,4200,1
+2026-01-19,Lagos,Ola,Laptop,Electronics,1,800,800,5
+2026-03-10,Kano,Chidi,Charger,Accessories,16,20,320,1
+2026-03-05,Port Harcourt,Mary,Laptop,Electronics,2,800,1600,1
+2026-02-10,Port Harcourt,Emeka,Laptop,Electronics,1,800,800,1
+2026-01-13,Lagos,Mary,Laptop,Electronics,16,800,12800,1
+2026-01-31,Lagos,Hauwa,Tablet,Electronics,13,300,3900,1
+2026-03-09,Abuja,Emeka,Charger,Accessories,11,20,220,2
+2026-01-04,Ibadan,Fatima,Charger,Accessories,6,20,120,3
+2026-03-23,Ibadan,Gideon,Headphones,Accessories,6,50,300,5
+2026-01-23,Kano,Ade,Laptop,Electronics,9,800,7200,3
+2026-03-16,Ibadan,Ola,Laptop,Electronics,13,800,10400,1
+2026-03-30,Ibadan,Gideon,Tablet,Electronics,7,300,2100,5
+2026-03-06,Lagos,Joy,Tablet,Electronics,15,300,4500,4
+2026-01-15,Ibadan,Hauwa,Laptop,Electronics,7,800,5600,5
+2026-03-01,Lagos,Ibrahim,Tablet,Electronics,19,300,5700,5
+2026-02-18,Ibadan,Joy,Laptop,Electronics,1,800,800,1
+2026-02-13,Kano,Gideon,Tablet,Electronics,3,300,900,2
+2026-03-13,Lagos,Mary,Headphones,Accessories,11,50,550,2
+2026-02-15,Lagos,Ngozi,Laptop,Electronics,2,800,1600,1
+2026-03-26,Lagos,Bola,Laptop,Electronics,3,800,2400,2
+2026-02-17,Port Harcourt,Chidi,Charger,Accessories,8,20,160,2
+2026-01-28,Port Harcourt,Emeka,Charger,Accessories,6,20,120,5
+2026-01-05,Ibadan,Mary,Charger,Accessories,12,20,240,2
+2026-02-06,Kano,Kemi,Laptop,Electronics,16,800,12800,4
+2026-01-15,Lagos,Ibrahim,Tablet,Electronics,4,300,1200,3
+2026-03-28,Port Harcourt,Hauwa,Tablet,Electronics,16,300,4800,2
+2026-02-12,Abuja,Joy,Headphones,Accessories,12,50,600,5
+2026-03-21,Lagos,Kemi,Phone,Electronics,11,250,2750,5
+2026-01-25,Kano,Ibrahim,Headphones,Accessories,15,50,750,4
+2026-02-20,Kano,Gideon,Tablet,Electronics,11,300,3300,4
+2026-03-27,Lagos,Mary,Headphones,Accessories,13,50,650,3
+2026-03-19,Kano,Kemi,Phone,Electronics,2,250,500,5
+2026-02-21,Kano,Ibrahim,Tablet,Electronics,4,300,1200,3
+2026-01-28,Kano,Emeka,Laptop,Electronics,15,800,12000,3
+2026-01-16,Port Harcourt,Fatima,Charger,Accessories,8,20,160,2
+2026-01-30,Kano,Chidi,Charger,Accessories,4,20,80,2
+2026-02-18,Kano,Ibrahim,Laptop,Electronics,2,800,1600,5
+2026-03-31,Abuja,Ola,Charger,Accessories,4,20,80,1
+2026-01-07,Abuja,Ibrahim,Charger,Accessories,11,20,220,4
+2026-02-08,Abuja,Joy,Tablet,Electronics,10,300,3000,5
+2026-03-04,Abuja,Emeka,Laptop,Electronics,7,800,5600,1
+2026-03-02,Ibadan,Bola,Phone,Electronics,10,250,2500,2
+2026-03-25,Abuja,Mary,Tablet,Electronics,4,300,1200,4
+2026-02-23,Ibadan,Ibrahim,Laptop,Electronics,7,800,5600,1
+2026-02-14,Abuja,Ade,Charger,Accessories,12,20,240,2
+2026-01-13,Ibadan,Chidi,Laptop,Electronics,15,800,12000,5
+2026-01-26,Kano,Mary,Tablet,Electronics,9,300,2700,1
+2026-01-10,Kano,Mary,Laptop,Electronics,15,800,12000,2
+2026-03-13,Kano,Fatima,Headphones,Accessories,10,50,500,1
+2026-03-09,Kano,Ibrahim,Charger,Accessories,5,20,100,2
+2026-03-01,Port Harcourt,Luke,Phone,Electronics,19,250,4750,2
+2026-01-19,Abuja,Joy,Headphones,Accessories,18,50,900,4
+2026-02-24,Port Harcourt,Joy,Charger,Accessories,10,20,200,2
+2026-02-16,Ibadan,Ngozi,Phone,Electronics,5,250,1250,1
+2026-02-02,Abuja,Ade,Laptop,Electronics,3,800,2400,5
+2026-01-22,Ibadan,Ngozi,Laptop,Electronics,17,800,13600,5
+2026-02-04,Ibadan,Ola,Charger,Accessories,15,20,300,4
+2026-02-01,Lagos,Hauwa,Tablet,Electronics,7,300,2100,3
+2026-03-14,Ibadan,Hauwa,Charger,Accessories,10,20,200,5
+2026-03-05,Ibadan,Chidi,Charger,Accessories,2,20,40,3
+2026-03-26,Abuja,Chidi,Laptop,Electronics,7,800,5600,2
+2026-02-11,Ibadan,Joy,Phone,Electronics,3,250,750,5
+2026-02-10,Kano,Luke,Charger,Accessories,7,20,140,1
+2026-01-24,Abuja,Luke,Charger,Accessories,11,20,220,4
+2026-01-19,Kano,Ola,Laptop,Electronics,14,800,11200,4
+2026-02-11,Kano,Hauwa,Phone,Electronics,6,250,1500,5
+2026-02-05,Abuja,Ngozi,Laptop,Electronics,14,800,11200,5
+2026-02-05,Abuja,Dami,Laptop,Electronics,1,800,800,3
+2026-01-08,Abuja,Ngozi,Charger,Accessories,9,20,180,1
+2026-02-10,Port Harcourt,Emeka,Headphones,Accessories,6,50,300,4
+2026-02-18,Kano,Ngozi,Tablet,Electronics,13,300,3900,4
+2026-03-01,Abuja,Fatima,Phone,Electronics,2,250,500,5
+2026-01-27,Lagos,Mary,Headphones,Accessories,12,50,600,5
+2026-03-13,Ibadan,Chidi,Headphones,Accessories,8,50,400,2
+2026-02-13,Kano,Gideon,Phone,Electronics,3,250,750,5
+2026-03-27,Ibadan,Dami,Phone,Electronics,3,250,750,2
+2026-01-02,Lagos,Mary,Tablet,Electronics,12,300,3600,1
+2026-03-28,Lagos,Chidi,Phone,Electronics,3,250,750,4
+2026-01-22,Port Harcourt,Joy,Headphones,Accessories,8,50,400,4
+2026-03-10,Port Harcourt,Emeka,Charger,Accessories,4,20,80,5
+2026-02-24,Ibadan,Ngozi,Charger,Accessories,15,20,300,2
+2026-01-12,Abuja,Kemi,Phone,Electronics,16,250,4000,1
+2026-01-12,Port Harcourt,Ola,Charger,Accessories,16,20,320,4
+2026-01-16,Kano,Kemi,Headphones,Accessories,3,50,150,5
+2026-01-05,Abuja,Bola,Laptop,Electronics,19,800,15200,4
+2026-03-06,Abuja,Mary,Tablet,Electronics,8,300,2400,1
+2026-03-11,Ibadan,Bola,Laptop,Electronics,20,800,16000,2
+2026-02-01,Port Harcourt,Ade,Laptop,Electronics,8,800,6400,1
+2026-03-17,Kano,Ngozi,Laptop,Electronics,16,800,12800,4
+2026-01-14,Kano,Luke,Tablet,Electronics,2,300,600,4
+2026-01-23,Abuja,Kemi,Laptop,Electronics,1,800,800,2
+2026-03-07,Abuja,Bola,Phone,Electronics,13,250,3250,1
+2026-03-14,Lagos,Ibrahim,Charger,Accessories,2,20,40,1
+2026-03-08,Ibadan,Hauwa,Phone,Electronics,11,250,2750,4
+2026-03-23,Ibadan,Ola,Phone,Electronics,4,250,1000,3
+2026-01-15,Lagos,Chidi,Phone,Electronics,11,250,2750,4
+2026-01-12,Kano,Joy,Phone,Electronics,5,250,1250,1
+2026-02-07,Abuja,Kemi,Phone,Electronics,10,250,2500,2
+2026-02-04,Kano,Ade,Laptop,Electronics,13,800,10400,2
+2026-01-06,Lagos,Kemi,Charger,Accessories,14,20,280,3
+2026-01-07,Port Harcourt,Ibrahim,Headphones,Accessories,16,50,800,4
+2026-03-14,Lagos,Mary,Laptop,Electronics,14,800,11200,5
+2026-03-07,Lagos,Ola,Phone,Electronics,3,250,750,3
+2026-02-04,Ibadan,Mary,Laptop,Electronics,2,800,1600,2
+2026-01-20,Ibadan,Ade,Charger,Accessories,14,20,280,2
+2026-01-25,Abuja,Ola,Phone,Electronics,10,250,2500,2
+2026-02-05,Abuja,Kemi,Tablet,Electronics,1,300,300,1
+2026-03-21,Abuja,Ola,Laptop,Electronics,14,800,11200,5
+2026-01-03,Abuja,Ade,Phone,Electronics,20,250,5000,3
+2026-01-06,Lagos,Ibrahim,Laptop,Electronics,9,800,7200,1
+2026-01-08,Kano,Luke,Tablet,Electronics,13,300,3900,5
+2026-03-09,Kano,Bola,Laptop,Electronics,2,800,1600,1
+2026-03-09,Port Harcourt,Ngozi,Tablet,Electronics,15,300,4500,5
+2026-02-01,Port Harcourt,Luke,Phone,Electronics,12,250,3000,4
+2026-01-31,Kano,Fatima,Tablet,Electronics,13,300,3900,4
+2026-03-01,Lagos,Luke,Charger,Accessories,18,20,360,5
+2026-01-02,Kano,Ngozi,Tablet,Electronics,11,300,3300,4
+2026-01-31,Port Harcourt,Ibrahim,Charger,Accessories,19,20,380,3
+2026-03-24,Ibadan,Kemi,Tablet,Electronics,5,300,1500,2
+2026-03-30,Abuja,Ibrahim,Tablet,Electronics,10,300,3000,2
+2026-02-19,Abuja,Ade,Charger,Accessories,11,20,220,5
+2026-03-14,Port Harcourt,Ola,Charger,Accessories,15,20,300,3
+2026-01-21,Port Harcourt,Ade,Headphones,Accessories,9,50,450,1
+2026-01-07,Port Harcourt,Dami,Headphones,Accessories,14,50,700,4
+2026-01-04,Lagos,Gideon,Tablet,Electronics,1,300,300,4
+2026-02-09,Port Harcourt,Chidi,Headphones,Accessories,7,50,350,1
+2026-02-21,Ibadan,Fatima,Charger,Accessories,5,20,100,5
+2026-02-05,Lagos,Mary,Tablet,Electronics,20,300,6000,4
+2026-02-19,Port Harcourt,Bola,Phone,Electronics,6,250,1500,5
+2026-03-04,Abuja,Luke,Headphones,Accessories,20,50,1000,5
+2026-01-07,Kano,Kemi,Charger,Accessories,3,20,60,3
+2026-03-12,Ibadan,Bola,Headphones,Accessories,14,50,700,5
+2026-02-24,Abuja,Dami,Phone,Electronics,5,250,1250,2
+2026-03-20,Port Harcourt,Luke,Laptop,Electronics,6,800,4800,5
+2026-03-28,Port Harcourt,Mary,Tablet,Electronics,10,300,3000,2
+2026-01-05,Ibadan,Ngozi,Headphones,Accessories,7,50,350,1
+2026-03-26,Kano,Bola,Charger,Accessories,13,20,260,2
+2026-03-26,Lagos,Mary,Phone,Electronics,18,250,4500,5
+2026-02-14,Abuja,Gideon,Tablet,Electronics,18,300,5400,4
+2026-03-01,Abuja,Bola,Phone,Electronics,17,250,4250,3
+2026-02-24,Ibadan,Emeka,Phone,Electronics,20,250,5000,5
+2026-02-03,Lagos,Dami,Headphones,Accessories,4,50,200,4
+2026-03-23,Port Harcourt,Kemi,Headphones,Accessories,16,50,800,3
+2026-02-21,Port Harcourt,Bola,Headphones,Accessories,9,50,450,5
+2026-02-11,Abuja,Ngozi,Phone,Electronics,6,250,1500,5
+2026-01-13,Port Harcourt,Ibrahim,Laptop,Electronics,10,800,8000,1
+2026-03-05,Kano,Ngozi,Tablet,Electronics,9,300,2700,1
+2026-02-10,Ibadan,Dami,Charger,Accessories,9,20,180,1
+2026-03-01,Port Harcourt,Luke,Headphones,Accessories,2,50,100,5
+2026-01-10,Ibadan,Kemi,Charger,Accessories,1,20,20,2
+2026-01-21,Port Harcourt,Ola,Laptop,Electronics,8,800,6400,4
+2026-02-03,Ibadan,Ngozi,Tablet,Electronics,11,300,3300,3
+2026-02-18,Lagos,Gideon,Laptop,Electronics,8,800,6400,1
+2026-03-24,Port Harcourt,Bola,Tablet,Electronics,13,300,3900,5
+2026-03-06,Abuja,Ola,Laptop,Electronics,12,800,9600,5
+2026-03-18,Port Harcourt,Hauwa,Laptop,Electronics,8,800,6400,1
+2026-01-01,Ibadan,Ola,Charger,Accessories,11,20,220,5
+2026-01-24,Abuja,Fatima,Charger,Accessories,19,20,380,3
+2026-01-05,Abuja,Ola,Headphones,Accessories,17,50,850,4
+2026-02-27,Kano,Ngozi,Tablet,Electronics,8,300,2400,4
+2026-02-21,Port Harcourt,Fatima,Charger,Accessories,11,20,220,3
+2026-01-28,Abuja,Dami,Laptop,Electronics,7,800,5600,3
+2026-02-27,Abuja,Joy,Charger,Accessories,11,20,220,5
+2026-01-08,Abuja,Mary,Phone,Electronics,5,250,1250,2
+2026-03-22,Ibadan,Luke,Charger,Accessories,6,20,120,1
+2026-03-07,Ibadan,Dami,Phone,Electronics,9,250,2250,2
+2026-02-18,Kano,Ade,Charger,Accessories,3,20,60,4
+2026-03-19,Kano,Joy,Laptop,Electronics,4,800,3200,1
+2026-03-30,Kano,Ibrahim,Headphones,Accessories,9,50,450,2
+2026-01-10,Kano,Ibrahim,Laptop,Electronics,18,800,14400,5
+2026-01-12,Lagos,Dami,Headphones,Accessories,4,50,200,3
+2026-01-02,Port Harcourt,Ibrahim,Phone,Electronics,8,250,2000,5
+2026-02-01,Kano,Chidi,Headphones,Accessories,16,50,800,4
+2026-01-11,Lagos,Chidi,Charger,Accessories,2,20,40,2
+2026-01-17,Lagos,Hauwa,Laptop,Electronics,15,800,12000,2
+2026-01-25,Lagos,Bola,Tablet,Electronics,9,300,2700,3
+2026-03-30,Port Harcourt,Gideon,Headphones,Accessories,14,50,700,2
+2026-01-30,Kano,Bola,Charger,Accessories,20,20,400,4
+2026-02-01,Abuja,Luke,Laptop,Electronics,12,800,9600,3
+2026-01-21,Port Harcourt,Ibrahim,Charger,Accessories,14,20,280,3
+2026-01-12,Kano,Bola,Charger,Accessories,7,20,140,1
+2026-01-18,Lagos,Ola,Charger,Accessories,15,20,300,5
+2026-01-21,Ibadan,Ibrahim,Phone,Electronics,13,250,3250,4
+2026-03-27,Lagos,Ngozi,Headphones,Accessories,11,50,550,3
+2026-03-23,Lagos,Joy,Headphones,Accessories,13,50,650,2
+2026-02-21,Port Harcourt,Joy,Phone,Electronics,15,250,3750,3
+2026-03-20,Port Harcourt,Ade,Laptop,Electronics,18,800,14400,3
+2026-03-18,Lagos,Bola,Headphones,Accessories,12,50,600,3
+2026-03-02,Kano,Ola,Phone,Electronics,5,250,1250,1
+2026-03-04,Abuja,Fatima,Phone,Electronics,3,250,750,3
+2026-01-25,Kano,Bola,Phone,Electronics,7,250,1750,5
+2026-01-08,Lagos,Luke,Headphones,Accessories,15,50,750,2
+2026-03-13,Lagos,Dami,Phone,Electronics,16,250,4000,1
+2026-01-05,Lagos,Fatima,Charger,Accessories,12,20,240,3
+2026-01-04,Abuja,Dami,Tablet,Electronics,1,300,300,3
+2026-03-30,Port Harcourt,Bola,Headphones,Accessories,10,50,500,2
+2026-01-27,Kano,Hauwa,Laptop,Electronics,14,800,11200,2
+2026-01-13,Ibadan,Dami,Laptop,Electronics,9,800,7200,1
+2026-02-05,Ibadan,Gideon,Charger,Accessories,20,20,400,2
+2026-03-22,Abuja,Hauwa,Tablet,Electronics,12,300,3600,1
+2026-02-22,Kano,Ade,Charger,Accessories,2,20,40,1
+2026-03-16,Abuja,Ade,Laptop,Electronics,20,800,16000,3
+2026-02-25,Lagos,Mary,Phone,Electronics,6,250,1500,3
+2026-02-27,Abuja,Ola,Phone,Electronics,5,250,1250,4
+2026-01-04,Abuja,Ngozi,Charger,Accessories,15,20,300,4
+2026-01-24,Port Harcourt,Ngozi,Phone,Electronics,10,250,2500,3
+2026-03-26,Kano,Kemi,Tablet,Electronics,5,300,1500,5
+2026-02-07,Ibadan,Joy,Laptop,Electronics,10,800,8000,4
+2026-01-20,Kano,Bola,Tablet,Electronics,13,300,3900,1
+2026-01-04,Ibadan,Bola,Headphones,Accessories,7,50,350,5
+2026-01-03,Abuja,Hauwa,Headphones,Accessories,14,50,700,5
+2026-02-27,Abuja,Ibrahim,Headphones,Accessories,16,50,800,4
+2026-01-24,Kano,Bola,Headphones,Accessories,4,50,200,2
+2026-01-19,Abuja,Joy,Laptop,Electronics,18,800,14400,4
+2026-02-18,Kano,Hauwa,Phone,Electronics,19,250,4750,3
+2026-03-17,Lagos,Gideon,Phone,Electronics,13,250,3250,2
+2026-01-31,Port Harcourt,Dami,Headphones,Accessories,6,50,300,4
+2026-02-17,Ibadan,Luke,Tablet,Electronics,19,300,5700,5
+2026-02-24,Port Harcourt,Ibrahim,Laptop,Electronics,4,800,3200,1
+2026-01-18,Port Harcourt,Hauwa,Laptop,Electronics,1,800,800,4
+2026-02-16,Abuja,Dami,Laptop,Electronics,17,800,13600,3
+2026-02-02,Port Harcourt,Fatima,Laptop,Electronics,13,800,10400,1
+2026-01-04,Ibadan,Hauwa,Charger,Accessories,6,20,120,4
+2026-02-16,Abuja,Ibrahim,Laptop,Electronics,16,800,12800,3
+2026-03-11,Lagos,Chidi,Laptop,Electronics,15,800,12000,4
+2026-01-09,Abuja,Bola,Headphones,Accessories,11,50,550,2
+2026-03-10,Abuja,Ade,Tablet,Electronics,16,300,4800,1
+2026-03-02,Port Harcourt,Ade,Laptop,Electronics,20,800,16000,2
+2026-01-03,Lagos,Ola,Tablet,Electronics,18,300,5400,5
+2026-03-11,Abuja,Chidi,Tablet,Electronics,11,300,3300,1
+2026-02-20,Lagos,Joy,Laptop,Electronics,13,800,10400,5
+2026-02-11,Lagos,Mary,Tablet,Electronics,19,300,5700,3
+2026-01-26,Abuja,Mary,Charger,Accessories,14,20,280,3
+2026-03-05,Port Harcourt,Emeka,Charger,Accessories,5,20,100,5
+2026-02-18,Ibadan,Dami,Charger,Accessories,20,20,400,5
+2026-03-05,Ibadan,Ibrahim,Charger,Accessories,10,20,200,5
+2026-03-11,Kano,Kemi,Laptop,Electronics,4,800,3200,2
+2026-02-08,Ibadan,Joy,Laptop,Electronics,4,800,3200,2
+2026-01-01,Abuja,Hauwa,Charger,Accessories,3,20,60,1
+2026-03-11,Abuja,Ade,Charger,Accessories,4,20,80,1
+2026-03-01,Port Harcourt,Ola,Headphones,Accessories,14,50,700,4
+2026-01-24,Ibadan,Hauwa,Charger,Accessories,20,20,400,1
+2026-03-26,Lagos,Fatima,Tablet,Electronics,4,300,1200,4
+2026-01-30,Lagos,Chidi,Tablet,Electronics,10,300,3000,4
+2026-02-04,Port Harcourt,Emeka,Headphones,Accessories,7,50,350,4
+2026-01-10,Abuja,Mary,Phone,Electronics,14,250,3500,2
+2026-03-11,Lagos,Chidi,Phone,Electronics,13,250,3250,4
+2026-02-14,Ibadan,Luke,Charger,Accessories,9,20,180,4
+2026-03-25,Port Harcourt,Ibrahim,Phone,Electronics,11,250,2750,2
+2026-02-26,Ibadan,Bola,Laptop,Electronics,11,800,8800,5
+2026-02-19,Lagos,Ibrahim,Laptop,Electronics,4,800,3200,1
+2026-03-11,Lagos,Mary,Charger,Accessories,7,20,140,2
+2026-01-20,Ibadan,Ade,Phone,Electronics,11,250,2750,5
+2026-01-26,Port Harcourt,Hauwa,Charger,Accessories,10,20,200,4
+2026-02-26,Kano,Hauwa,Charger,Accessories,14,20,280,5
+2026-03-10,Kano,Hauwa,Phone,Electronics,18,250,4500,3
+2026-03-29,Ibadan,Emeka,Charger,Accessories,5,20,100,1
+2026-03-30,Kano,Luke,Tablet,Electronics,19,300,5700,5
+2026-03-02,Port Harcourt,Bola,Laptop,Electronics,12,800,9600,1
+2026-02-19,Kano,Bola,Laptop,Electronics,1,800,800,5
+2026-03-12,Abuja,Fatima,Phone,Electronics,4,250,1000,1
+2026-01-24,Abuja,Mary,Charger,Accessories,17,20,340,5
+2026-01-28,Kano,Emeka,Laptop,Electronics,2,800,1600,2
+2026-02-10,Ibadan,Bola,Tablet,Electronics,11,300,3300,1
+2026-03-11,Port Harcourt,Kemi,Headphones,Accessories,17,50,850,2
+2026-03-15,Kano,Ibrahim,Headphones,Accessories,1,50,50,5
+2026-01-02,Lagos,Bola,Charger,Accessories,5,20,100,1
+2026-03-15,Lagos,Fatima,Charger,Accessories,2,20,40,2
+2026-02-20,Port Harcourt,Joy,Laptop,Electronics,16,800,12800,5
+2026-03-27,Abuja,Ade,Laptop,Electronics,7,800,5600,4
+2026-02-09,Kano,Kemi,Charger,Accessories,15,20,300,4
+2026-03-05,Ibadan,Dami,Charger,Accessories,10,20,200,3
+2026-03-05,Kano,Fatima,Phone,Electronics,17,250,4250,5
+2026-01-26,Kano,Ola,Tablet,Electronics,20,300,6000,4
+2026-03-27,Abuja,Ngozi,Tablet,Electronics,14,300,4200,5
+2026-03-27,Kano,Kemi,Tablet,Electronics,15,300,4500,4
+2026-01-27,Ibadan,Ola,Laptop,Electronics,14,800,11200,5
+2026-02-09,Kano,Chidi,Laptop,Electronics,9,800,7200,2
+2026-03-04,Kano,Luke,Tablet,Electronics,17,300,5100,2
+2026-03-13,Lagos,Chidi,Headphones,Accessories,3,50,150,4
+2026-02-11,Kano,Bola,Phone,Electronics,1,250,250,4
+2026-01-06,Port Harcourt,Luke,Laptop,Electronics,3,800,2400,4
+2026-02-12,Abuja,Ibrahim,Tablet,Electronics,18,300,5400,3
+2026-02-20,Port Harcourt,Joy,Tablet,Electronics,5,300,1500,3
+2026-03-15,Port Harcourt,Ngozi,Tablet,Electronics,12,300,3600,4
+2026-02-05,Lagos,Chidi,Laptop,Electronics,9,800,7200,5
+2026-02-24,Kano,Mary,Phone,Electronics,8,250,2000,1
+2026-01-15,Lagos,Gideon,Headphones,Accessories,15,50,750,2
+2026-03-01,Kano,Gideon,Charger,Accessories,10,20,200,4
+2026-01-12,Ibadan,Ade,Headphones,Accessories,6,50,300,2
+2026-03-21,Ibadan,Kemi,Charger,Accessories,7,20,140,3
+2026-01-03,Kano,Gideon,Headphones,Accessories,13,50,650,3
+2026-02-09,Abuja,Ade,Charger,Accessories,18,20,360,1
+2026-01-08,Ibadan,Mary,Headphones,Accessories,1,50,50,5
+2026-01-04,Lagos,Luke,Headphones,Accessories,16,50,800,3
+2026-01-12,Ibadan,Ola,Headphones,Accessories,9,50,450,3
+2026-01-16,Lagos,Hauwa,Headphones,Accessories,14,50,700,1
+2026-01-21,Lagos,Ola,Tablet,Electronics,13,300,3900,5
+2026-01-04,Lagos,Hauwa,Laptop,Electronics,2,800,1600,4
+2026-02-28,Port Harcourt,Gideon,Charger,Accessories,6,20,120,3
+2026-01-25,Lagos,Dami,Tablet,Electronics,5,300,1500,3
+2026-03-09,Abuja,Gideon,Laptop,Electronics,1,800,800,1
+2026-02-03,Port Harcourt,Emeka,Tablet,Electronics,20,300,6000,2
+2026-03-02,Abuja,Joy,Charger,Accessories,5,20,100,4
+2026-02-19,Kano,Ngozi,Headphones,Accessories,9,50,450,3
+2026-01-11,Abuja,Ola,Charger,Accessories,12,20,240,2
+2026-03-14,Abuja,Ola,Laptop,Electronics,15,800,12000,5
+2026-03-27,Abuja,Bola,Headphones,Accessories,2,50,100,3
+2026-01-30,Kano,Ola,Phone,Electronics,12,250,3000,2
+2026-01-21,Kano,Dami,Charger,Accessories,16,20,320,4
+2026-03-26,Abuja,Bola,Tablet,Electronics,1,300,300,3
+2026-02-03,Port Harcourt,Ade,Laptop,Electronics,20,800,16000,1
+2026-02-16,Port Harcourt,Emeka,Charger,Accessories,19,20,380,2
+2026-02-26,Kano,Ibrahim,Tablet,Electronics,11,300,3300,1
+2026-01-11,Port Harcourt,Bola,Phone,Electronics,5,250,1250,3
+2026-02-02,Abuja,Ngozi,Headphones,Accessories,3,50,150,4
+2026-02-03,Lagos,Kemi,Charger,Accessories,16,20,320,2
+2026-02-09,Ibadan,Ade,Tablet,Electronics,3,300,900,4
+2026-02-08,Lagos,Bola,Tablet,Electronics,15,300,4500,1
+2026-01-01,Port Harcourt,Emeka,Charger,Accessories,20,20,400,3
+2026-02-27,Abuja,Ngozi,Charger,Accessories,4,20,80,1
+2026-02-07,Port Harcourt,Luke,Phone,Electronics,15,250,3750,5
+2026-02-26,Kano,Hauwa,Headphones,Accessories,3,50,150,5
+2026-01-14,Abuja,Ade,Laptop,Electronics,14,800,11200,4
+2026-01-17,Port Harcourt,Joy,Laptop,Electronics,12,800,9600,1
+2026-03-18,Kano,Bola,Phone,Electronics,3,250,750,2
+2026-01-06,Port Harcourt,Bola,Charger,Accessories,19,20,380,3
+2026-02-15,Lagos,Ibrahim,Headphones,Accessories,2,50,100,4
+2026-03-03,Lagos,Joy,Phone,Electronics,8,250,2000,3
+2026-01-30,Lagos,Ade,Phone,Electronics,19,250,4750,3
+2026-01-25,Ibadan,Mary,Charger,Accessories,20,20,400,2
+2026-03-28,Abuja,Ola,Headphones,Accessories,6,50,300,1
+2026-02-20,Abuja,Ibrahim,Laptop,Electronics,19,800,15200,3
+2026-01-19,Lagos,Ade,Headphones,Accessories,10,50,500,1
+2026-02-14,Abuja,Joy,Charger,Accessories,20,20,400,1
+2026-02-16,Port Harcourt,Fatima,Phone,Electronics,19,250,4750,4
+2026-02-07,Kano,Hauwa,Laptop,Electronics,14,800,11200,5
+2026-02-09,Ibadan,Dami,Charger,Accessories,4,20,80,1
+2026-03-05,Ibadan,Kemi,Phone,Electronics,9,250,2250,1
+2026-03-30,Lagos,Ibrahim,Laptop,Electronics,20,800,16000,3
+2026-02-28,Ibadan,Gideon,Laptop,Electronics,3,800,2400,1
+2026-03-09,Port Harcourt,Hauwa,Laptop,Electronics,4,800,3200,4
+2026-01-02,Abuja,Hauwa,Laptop,Electronics,8,800,6400,1
+2026-03-27,Ibadan,Emeka,Phone,Electronics,14,250,3500,1
+2026-03-03,Port Harcourt,Mary,Phone,Electronics,16,250,4000,1
+2026-01-30,Port Harcourt,Ade,Tablet,Electronics,16,300,4800,4
+2026-01-11,Port Harcourt,Gideon,Tablet,Electronics,3,300,900,2
+2026-02-17,Port Harcourt,Ibrahim,Headphones,Accessories,5,50,250,4
+2026-03-08,Lagos,Kemi,Charger,Accessories,5,20,100,4
+2026-03-14,Lagos,Joy,Tablet,Electronics,1,300,300,5
+2026-03-09,Port Harcourt,Mary,Tablet,Electronics,9,300,2700,3
+2026-03-29,Port Harcourt,Chidi,Tablet,Electronics,17,300,5100,1
+2026-02-14,Ibadan,Ngozi,Tablet,Electronics,8,300,2400,4
+2026-02-15,Abuja,Dami,Tablet,Electronics,12,300,3600,1
+2026-01-26,Ibadan,Dami,Tablet,Electronics,19,300,5700,4
+2026-01-21,Lagos,Ibrahim,Phone,Electronics,8,250,2000,3
+2026-01-20,Kano,Bola,Charger,Accessories,6,20,120,1
+2026-01-04,Ibadan,Ola,Phone,Electronics,19,250,4750,4
+2026-01-22,Ibadan,Fatima,Charger,Accessories,4,20,80,4
+2026-03-08,Lagos,Ngozi,Headphones,Accessories,13,50,650,4
+2026-03-29,Kano,Ibrahim,Tablet,Electronics,2,300,600,2
+2026-01-01,Abuja,Dami,Laptop,Electronics,9,800,7200,1
+2026-01-17,Abuja,Ade,Headphones,Accessories,18,50,900,5
+2026-01-06,Abuja,Emeka,Headphones,Accessories,12,50,600,2
+2026-03-24,Abuja,Chidi,Charger,Accessories,8,20,160,4
+2026-03-06,Ibadan,Gideon,Charger,Accessories,10,20,200,1
+2026-02-09,Abuja,Luke,Laptop,Electronics,13,800,10400,3
+2026-03-25,Abuja,Gideon,Tablet,Electronics,16,300,4800,1
+2026-03-02,Port Harcourt,Fatima,Phone,Electronics,13,250,3250,1
+2026-03-03,Abuja,Luke,Headphones,Accessories,14,50,700,3
+2026-03-31,Port Harcourt,Mary,Charger,Accessories,20,20,400,5
+2026-03-05,Ibadan,Kemi,Phone,Electronics,17,250,4250,2
+2026-02-23,Kano,Ibrahim,Phone,Electronics,11,250,2750,1
+2026-03-29,Port Harcourt,Bola,Charger,Accessories,9,20,180,5
+2026-02-10,Port Harcourt,Luke,Charger,Accessories,17,20,340,1
+2026-02-28,Abuja,Kemi,Charger,Accessories,19,20,380,1
+2026-01-13,Kano,Ibrahim,Laptop,Electronics,7,800,5600,3
+2026-01-19,Ibadan,Ibrahim,Laptop,Electronics,14,800,11200,3
+2026-02-15,Port Harcourt,Ade,Headphones,Accessories,13,50,650,5
+2026-02-09,Lagos,Hauwa,Laptop,Electronics,1,800,800,4
+2026-03-17,Port Harcourt,Ibrahim,Tablet,Electronics,19,300,5700,5
+2026-01-12,Ibadan,Bola,Headphones,Accessories,13,50,650,5
+2026-02-02,Port Harcourt,Emeka,Tablet,Electronics,16,300,4800,5
+2026-03-10,Kano,Ola,Headphones,Accessories,7,50,350,1
+2026-03-28,Lagos,Ibrahim,Phone,Electronics,14,250,3500,5
+2026-03-28,Abuja,Ade,Laptop,Electronics,15,800,12000,1
+2026-03-25,Abuja,Hauwa,Phone,Electronics,15,250,3750,2
+2026-03-07,Port Harcourt,Kemi,Charger,Accessories,18,20,360,4
+2026-02-05,Lagos,Kemi,Phone,Electronics,1,250,250,2
+2026-01-19,Lagos,Dami,Charger,Accessories,5,20,100,4
+2026-03-25,Ibadan,Chidi,Charger,Accessories,8,20,160,1
+2026-03-17,Port Harcourt,Joy,Laptop,Electronics,1,800,800,2
+2026-01-15,Port Harcourt,Ibrahim,Charger,Accessories,19,20,380,1
+2026-01-02,Lagos,Hauwa,Headphones,Accessories,7,50,350,5
+2026-03-15,Abuja,Ngozi,Laptop,Electronics,9,800,7200,2
+2026-03-16,Port Harcourt,Chidi,Phone,Electronics,19,250,4750,5
+2026-01-14,Kano,Luke,Charger,Accessories,10,20,200,2
+2026-03-14,Lagos,Ade,Phone,Electronics,19,250,4750,1
+2026-01-28,Port Harcourt,Gideon,Laptop,Electronics,7,800,5600,3
+2026-03-11,Ibadan,Bola,Laptop,Electronics,20,800,16000,3
+2026-02-07,Kano,Bola,Phone,Electronics,2,250,500,3
+2026-02-09,Port Harcourt,Mary,Charger,Accessories,16,20,320,2
+2026-02-10,Ibadan,Joy,Charger,Accessories,17,20,340,4
+2026-03-06,Port Harcourt,Ngozi,Tablet,Electronics,3,300,900,5
+2026-03-31,Kano,Ola,Charger,Accessories,15,20,300,5
+2026-01-25,Lagos,Dami,Phone,Electronics,17,250,4250,1
+2026-01-28,Port Harcourt,Kemi,Headphones,Accessories,6,50,300,5
+2026-01-18,Port Harcourt,Luke,Phone,Electronics,11,250,2750,4
+2026-02-14,Port Harcourt,Ade,Laptop,Electronics,3,800,2400,1
+2026-01-30,Abuja,Fatima,Phone,Electronics,6,250,1500,4
+2026-02-01,Abuja,Ngozi,Phone,Electronics,12,250,3000,3
+2026-01-28,Lagos,Mary,Charger,Accessories,3,20,60,4
+2026-02-10,Ibadan,Luke,Charger,Accessories,15,20,300,3
+2026-02-01,Port Harcourt,Ibrahim,Headphones,Accessories,16,50,800,2
+2026-02-02,Lagos,Chidi,Phone,Electronics,4,250,1000,2
+2026-01-07,Kano,Dami,Tablet,Electronics,5,300,1500,4
+2026-02-25,Kano,Luke,Phone,Electronics,5,250,1250,1
+2026-02-16,Ibadan,Luke,Headphones,Accessories,1,50,50,4
+2026-01-29,Kano,Luke,Phone,Electronics,19,250,4750,2
+2026-02-04,Kano,Emeka,Headphones,Accessories,18,50,900,3
+2026-01-11,Abuja,Bola,Tablet,Electronics,15,300,4500,1
+2026-02-07,Lagos,Bola,Tablet,Electronics,17,300,5100,5
+2026-02-03,Abuja,Chidi,Laptop,Electronics,8,800,6400,4
+2026-03-06,Kano,Fatima,Phone,Electronics,12,250,3000,4
+2026-02-19,Kano,Kemi,Laptop,Electronics,17,800,13600,5
+2026-03-16,Port Harcourt,Fatima,Laptop,Electronics,3,800,2400,5
+2026-01-26,Kano,Bola,Tablet,Electronics,4,300,1200,3
+2026-03-05,Ibadan,Gideon,Laptop,Electronics,14,800,11200,3
+2026-02-20,Port Harcourt,Bola,Laptop,Electronics,10,800,8000,2
+2026-02-28,Lagos,Ngozi,Phone,Electronics,6,250,1500,5
+2026-01-30,Lagos,Ade,Laptop,Electronics,15,800,12000,2
+2026-02-06,Port Harcourt,Ngozi,Tablet,Electronics,5,300,1500,2
+2026-02-04,Ibadan,Dami,Phone,Electronics,5,250,1250,4
+2026-03-14,Kano,Luke,Laptop,Electronics,18,800,14400,1
+2026-02-28,Abuja,Ngozi,Tablet,Electronics,13,300,3900,4
+2026-01-22,Lagos,Kemi,Tablet,Electronics,17,300,5100,4
+2026-02-06,Lagos,Mary,Laptop,Electronics,5,800,4000,1
+2026-01-13,Abuja,Chidi,Laptop,Electronics,17,800,13600,2
+2026-03-27,Ibadan,Ngozi,Charger,Accessories,13,20,260,5
+2026-01-03,Kano,Dami,Charger,Accessories,19,20,380,2
+2026-02-01,Abuja,Ibrahim,Tablet,Electronics,2,300,600,5
+2026-03-26,Abuja,Bola,Tablet,Electronics,19,300,5700,4
+2026-01-11,Port Harcourt,Ola,Phone,Electronics,12,250,3000,4
+2026-01-01,Ibadan,Ade,Tablet,Electronics,19,300,5700,4
+2026-01-13,Port Harcourt,Fatima,Charger,Accessories,3,20,60,2
+2026-02-20,Kano,Dami,Phone,Electronics,11,250,2750,5
+2026-03-23,Port Harcourt,Fatima,Tablet,Electronics,17,300,5100,1
+2026-02-06,Lagos,Mary,Tablet,Electronics,19,300,5700,5
+2026-01-28,Abuja,Kemi,Phone,Electronics,8,250,2000,5
+2026-02-05,Port Harcourt,Ade,Laptop,Electronics,17,800,13600,3
+2026-01-11,Abuja,Kemi,Laptop,Electronics,2,800,1600,5
+2026-01-12,Port Harcourt,Luke,Headphones,Accessories,15,50,750,5
+2026-01-05,Abuja,Hauwa,Laptop,Electronics,11,800,8800,1
+2026-02-10,Abuja,Fatima,Phone,Electronics,20,250,5000,2
+2026-03-11,Kano,Ola,Charger,Accessories,12,20,240,1
+2026-01-19,Port Harcourt,Hauwa,Tablet,Electronics,19,300,5700,2
+2026-02-21,Lagos,Gideon,Tablet,Electronics,16,300,4800,2
+2026-03-16,Port Harcourt,Fatima,Tablet,Electronics,4,300,1200,1
+2026-01-27,Port Harcourt,Luke,Headphones,Accessories,15,50,750,3
+2026-03-22,Kano,Ola,Tablet,Electronics,19,300,5700,3
+2026-03-23,Ibadan,Fatima,Phone,Electronics,14,250,3500,4
+2026-02-16,Abuja,Ngozi,Headphones,Accessories,19,50,950,4
+2026-02-04,Kano,Dami,Laptop,Electronics,7,800,5600,1
+2026-02-14,Lagos,Ngozi,Laptop,Electronics,8,800,6400,1
+2026-03-13,Lagos,Bola,Headphones,Accessories,17,50,850,3
+2026-03-08,Ibadan,Emeka,Laptop,Electronics,6,800,4800,3
+2026-01-13,Ibadan,Emeka,Phone,Electronics,5,250,1250,5
+2026-01-22,Kano,Chidi,Headphones,Accessories,16,50,800,5
+2026-03-08,Ibadan,Gideon,Tablet,Electronics,11,300,3300,2
+2026-03-05,Ibadan,Gideon,Headphones,Accessories,10,50,500,5
+2026-03-17,Ibadan,Ngozi,Charger,Accessories,16,20,320,2
+2026-01-24,Port Harcourt,Ngozi,Laptop,Electronics,9,800,7200,3
+2026-02-04,Ibadan,Fatima,Charger,Accessories,15,20,300,3
+2026-01-08,Lagos,Gideon,Tablet,Electronics,18,300,5400,2
+2026-03-12,Lagos,Mary,Charger,Accessories,17,20,340,3
+2026-02-05,Port Harcourt,Ade,Laptop,Electronics,1,800,800,1
+2026-01-01,Abuja,Gideon,Headphones,Accessories,5,50,250,5
+2026-01-08,Lagos,Ibrahim,Phone,Electronics,13,250,3250,5
+2026-01-01,Abuja,Joy,Charger,Accessories,9,20,180,4
+2026-03-07,Port Harcourt,Kemi,Laptop,Electronics,3,800,2400,1
+2026-02-15,Lagos,Gideon,Phone,Electronics,2,250,500,4
+2026-03-16,Kano,Fatima,Phone,Electronics,6,250,1500,3
+2026-01-03,Abuja,Joy,Tablet,Electronics,8,300,2400,4
+2026-02-14,Lagos,Ngozi,Charger,Accessories,13,20,260,2
+2026-03-02,Ibadan,Luke,Laptop,Electronics,13,800,10400,3
+2026-01-16,Kano,Hauwa,Phone,Electronics,6,250,1500,2
+2026-01-17,Lagos,Bola,Phone,Electronics,8,250,2000,2
+2026-01-16,Port Harcourt,Joy,Phone,Electronics,10,250,2500,4
+2026-03-07,Port Harcourt,Fatima,Charger,Accessories,2,20,40,2
+2026-02-25,Ibadan,Hauwa,Laptop,Electronics,13,800,10400,4
+2026-02-08,Abuja,Kemi,Phone,Electronics,2,250,500,3
+2026-03-28,Abuja,Ade,Tablet,Electronics,8,300,2400,3
+2026-02-22,Port Harcourt,Joy,Charger,Accessories,7,20,140,1
+2026-01-30,Abuja,Chidi,Headphones,Accessories,17,50,850,5
+2026-01-21,Kano,Ngozi,Headphones,Accessories,13,50,650,3
+2026-02-26,Ibadan,Ngozi,Phone,Electronics,19,250,4750,1
+2026-02-24,Ibadan,Bola,Tablet,Electronics,17,300,5100,2
+2026-03-13,Kano,Hauwa,Headphones,Accessories,10,50,500,4
+2026-02-01,Port Harcourt,Hauwa,Laptop,Electronics,20,800,16000,2
+2026-02-19,Lagos,Ngozi,Headphones,Accessories,14,50,700,4
+2026-02-22,Port Harcourt,Mary,Headphones,Accessories,14,50,700,4
+2026-02-28,Ibadan,Hauwa,Laptop,Electronics,13,800,10400,2
+2026-01-31,Ibadan,Kemi,Charger,Accessories,12,20,240,2
+2026-03-16,Kano,Emeka,Laptop,Electronics,18,800,14400,1
+2026-02-18,Lagos,Mary,Laptop,Electronics,12,800,9600,1
+2026-01-26,Ibadan,Mary,Headphones,Accessories,17,50,850,2
+2026-03-22,Lagos,Hauwa,Tablet,Electronics,6,300,1800,2
+2026-02-10,Lagos,Hauwa,Laptop,Electronics,8,800,6400,5
+2026-03-05,Kano,Dami,Laptop,Electronics,12,800,9600,5
+2026-03-06,Lagos,Chidi,Laptop,Electronics,11,800,8800,3
+2026-01-09,Abuja,Luke,Charger,Accessories,19,20,380,3
+2026-02-13,Abuja,Hauwa,Charger,Accessories,2,20,40,4
+2026-03-23,Ibadan,Kemi,Phone,Electronics,4,250,1000,3
+2026-03-24,Port Harcourt,Gideon,Tablet,Electronics,13,300,3900,1
+2026-02-25,Kano,Ola,Phone,Electronics,6,250,1500,4
+2026-02-06,Abuja,Kemi,Charger,Accessories,19,20,380,1
+2026-03-01,Kano,Chidi,Tablet,Electronics,1,300,300,3
+2026-02-16,Lagos,Mary,Headphones,Accessories,10,50,500,5
+2026-01-13,Abuja,Ibrahim,Charger,Accessories,11,20,220,5
+2026-01-24,Port Harcourt,Joy,Tablet,Electronics,1,300,300,4
+2026-01-17,Lagos,Bola,Tablet,Electronics,11,300,3300,4
+2026-01-25,Ibadan,Ngozi,Tablet,Electronics,15,300,4500,1
+2026-03-24,Lagos,Mary,Headphones,Accessories,20,50,1000,3
+2026-02-06,Lagos,Dami,Headphones,Accessories,12,50,600,2
+2026-02-17,Ibadan,Kemi,Tablet,Electronics,17,300,5100,4
+2026-02-16,Ibadan,Kemi,Laptop,Electronics,9,800,7200,2
+2026-03-12,Lagos,Chidi,Headphones,Accessories,14,50,700,1
+2026-03-23,Abuja,Gideon,Tablet,Electronics,13,300,3900,5
+2026-01-31,Lagos,Luke,Phone,Electronics,13,250,3250,2
+2026-01-09,Kano,Emeka,Laptop,Electronics,16,800,12800,1
+2026-03-16,Lagos,Mary,Phone,Electronics,6,250,1500,1
+2026-03-28,Ibadan,Ngozi,Laptop,Electronics,4,800,3200,5
+2026-02-03,Lagos,Mary,Laptop,Electronics,13,800,10400,1
+2026-01-07,Kano,Chidi,Phone,Electronics,8,250,2000,4
+2026-01-03,Port Harcourt,Gideon,Phone,Electronics,18,250,4500,4
+2026-02-13,Kano,Joy,Phone,Electronics,6,250,1500,5
+2026-02-23,Port Harcourt,Ibrahim,Headphones,Accessories,8,50,400,1
+2026-01-21,Port Harcourt,Luke,Charger,Accessories,4,20,80,4
+2026-01-13,Kano,Bola,Laptop,Electronics,11,800,8800,1
+2026-02-23,Ibadan,Kemi,Headphones,Accessories,17,50,850,2
+2026-02-16,Port Harcourt,Mary,Tablet,Electronics,12,300,3600,5
+2026-02-15,Lagos,Gideon,Phone,Electronics,10,250,2500,5
+2026-01-24,Ibadan,Ibrahim,Charger,Accessories,5,20,100,2
+2026-01-14,Lagos,Dami,Phone,Electronics,17,250,4250,2
+2026-01-25,Lagos,Kemi,Headphones,Accessories,3,50,150,3
+2026-01-17,Lagos,Ola,Phone,Electronics,15,250,3750,4
+2026-01-24,Lagos,Bola,Tablet,Electronics,20,300,6000,5
+2026-01-25,Kano,Ngozi,Phone,Electronics,11,250,2750,4
+2026-03-06,Lagos,Ola,Tablet,Electronics,6,300,1800,4
+2026-02-16,Kano,Ola,Charger,Accessories,16,20,320,1
+2026-02-27,Lagos,Chidi,Headphones,Accessories,8,50,400,4
+2026-02-28,Kano,Hauwa,Laptop,Electronics,10,800,8000,1
+2026-02-06,Ibadan,Kemi,Tablet,Electronics,2,300,600,5
+2026-02-24,Lagos,Ibrahim,Charger,Accessories,1,20,20,2
+2026-02-26,Kano,Emeka,Headphones,Accessories,7,50,350,4
+2026-03-21,Lagos,Fatima,Tablet,Electronics,16,300,4800,3
+2026-03-18,Ibadan,Dami,Tablet,Electronics,4,300,1200,4
+2026-02-20,Lagos,Ngozi,Charger,Accessories,15,20,300,1
+2026-01-08,Lagos,Emeka,Headphones,Accessories,11,50,550,1
+2026-02-14,Ibadan,Ola,Phone,Electronics,8,250,2000,3
+2026-03-08,Abuja,Dami,Headphones,Accessories,4,50,200,5
+2026-01-29,Port Harcourt,Emeka,Phone,Electronics,9,250,2250,2
+2026-01-28,Lagos,Ade,Headphones,Accessories,2,50,100,5
+2026-03-28,Abuja,Bola,Phone,Electronics,15,250,3750,4
+2026-03-31,Kano,Bola,Headphones,Accessories,4,50,200,1
+2026-02-25,Abuja,Joy,Charger,Accessories,5,20,100,4
+2026-03-16,Port Harcourt,Joy,Headphones,Accessories,18,50,900,4
+2026-01-17,Abuja,Chidi,Phone,Electronics,9,250,2250,3
+2026-03-12,Abuja,Bola,Headphones,Accessories,12,50,600,2
+2026-02-14,Ibadan,Fatima,Laptop,Electronics,10,800,8000,3
+2026-03-18,Abuja,Fatima,Charger,Accessories,11,20,220,5
+2026-03-09,Port Harcourt,Mary,Headphones,Accessories,8,50,400,4
+2026-03-06,Lagos,Chidi,Headphones,Accessories,11,50,550,1
+2026-02-21,Abuja,Fatima,Laptop,Electronics,15,800,12000,4
+2026-01-31,Abuja,Gideon,Tablet,Electronics,15,300,4500,1
+2026-01-26,Port Harcourt,Chidi,Headphones,Accessories,14,50,700,1
+2026-01-05,Port Harcourt,Luke,Phone,Electronics,18,250,4500,4
+2026-03-16,Kano,Mary,Laptop,Electronics,20,800,16000,1
+2026-02-07,Ibadan,Chidi,Tablet,Electronics,18,300,5400,3
+2026-01-15,Lagos,Ola,Tablet,Electronics,2,300,600,5
+2026-03-10,Port Harcourt,Luke,Phone,Electronics,14,250,3500,2
+2026-03-15,Lagos,Ade,Phone,Electronics,14,250,3500,5
+2026-01-06,Abuja,Ngozi,Tablet,Electronics,3,300,900,5
+2026-02-13,Lagos,Ibrahim,Laptop,Electronics,8,800,6400,5
+2026-02-02,Abuja,Joy,Charger,Accessories,11,20,220,1
+2026-03-16,Kano,Hauwa,Headphones,Accessories,16,50,800,5
+2026-01-11,Ibadan,Mary,Tablet,Electronics,18,300,5400,4
+2026-03-11,Lagos,Ola,Tablet,Electronics,12,300,3600,1
+2026-03-09,Port Harcourt,Ade,Charger,Accessories,16,20,320,3
+2026-02-25,Lagos,Ngozi,Charger,Accessories,16,20,320,3
+2026-01-11,Lagos,Emeka,Laptop,Electronics,12,800,9600,5
+2026-01-19,Port Harcourt,Ade,Tablet,Electronics,18,300,5400,2
+2026-01-04,Ibadan,Ade,Tablet,Electronics,6,300,1800,4
+2026-01-29,Abuja,Ade,Laptop,Electronics,19,800,15200,3
+2026-01-17,Lagos,Hauwa,Laptop,Electronics,2,800,1600,3
+2026-03-21,Lagos,Ade,Charger,Accessories,11,20,220,2
+2026-01-08,Abuja,Ibrahim,Phone,Electronics,2,250,500,5
+2026-01-08,Port Harcourt,Chidi,Phone,Electronics,10,250,2500,4
+2026-03-06,Kano,Chidi,Charger,Accessories,15,20,300,3
+2026-03-22,Lagos,Ibrahim,Tablet,Electronics,7,300,2100,3
+2026-03-29,Abuja,Ade,Charger,Accessories,20,20,400,2
+2026-01-09,Ibadan,Bola,Charger,Accessories,12,20,240,5
+2026-02-05,Kano,Mary,Headphones,Accessories,10,50,500,5
+2026-02-12,Port Harcourt,Ade,Phone,Electronics,10,250,2500,5
+2026-03-07,Port Harcourt,Ngozi,Headphones,Accessories,10,50,500,3
+2026-01-27,Kano,Hauwa,Phone,Electronics,5,250,1250,1
+2026-01-13,Port Harcourt,Kemi,Tablet,Electronics,3,300,900,5
+2026-01-09,Kano,Chidi,Charger,Accessories,10,20,200,3
+2026-01-01,Port Harcourt,Luke,Headphones,Accessories,2,50,100,1
+2026-03-08,Lagos,Ibrahim,Laptop,Electronics,7,800,5600,4
+2026-02-04,Abuja,Joy,Charger,Accessories,20,20,400,3
+2026-03-31,Kano,Bola,Phone,Electronics,17,250,4250,1
+2026-02-14,Lagos,Bola,Laptop,Electronics,18,800,14400,4
+2026-02-22,Port Harcourt,Gideon,Laptop,Electronics,20,800,16000,3
+2026-03-09,Lagos,Bola,Headphones,Accessories,18,50,900,1
+2026-01-01,Port Harcourt,Ade,Headphones,Accessories,18,50,900,2
+2026-01-20,Ibadan,Chidi,Tablet,Electronics,13,300,3900,4
+2026-02-28,Kano,Ngozi,Charger,Accessories,10,20,200,3
+2026-01-05,Port Harcourt,Chidi,Tablet,Electronics,9,300,2700,2
+2026-01-17,Ibadan,Luke,Laptop,Electronics,1,800,800,2
+2026-02-10,Abuja,Hauwa,Laptop,Electronics,13,800,10400,5
+2026-03-10,Lagos,Mary,Laptop,Electronics,4,800,3200,3
+2026-01-21,Abuja,Dami,Tablet,Electronics,19,300,5700,3
+2026-01-26,Port Harcourt,Kemi,Charger,Accessories,12,20,240,3
+2026-03-01,Kano,Emeka,Headphones,Accessories,19,50,950,2
+2026-01-05,Abuja,Luke,Phone,Electronics,8,250,2000,5
+2026-01-04,Kano,Ola,Phone,Electronics,14,250,3500,2
+2026-01-15,Port Harcourt,Luke,Laptop,Electronics,20,800,16000,2
+2026-01-08,Kano,Ibrahim,Charger,Accessories,20,20,400,1
+2026-01-19,Kano,Hauwa,Headphones,Accessories,16,50,800,4
+2026-03-09,Port Harcourt,Dami,Tablet,Electronics,14,300,4200,2
+2026-02-06,Ibadan,Bola,Laptop,Electronics,15,800,12000,1
+2026-01-24,Ibadan,Bola,Laptop,Electronics,3,800,2400,3
+2026-03-04,Ibadan,Ibrahim,Tablet,Electronics,8,300,2400,5
+2026-01-24,Kano,Gideon,Tablet,Electronics,4,300,1200,2
+2026-03-08,Lagos,Fatima,Phone,Electronics,4,250,1000,2
+2026-03-28,Ibadan,Dami,Charger,Accessories,17,20,340,5
+2026-01-23,Abuja,Emeka,Headphones,Accessories,20,50,1000,5
+2026-02-22,Lagos,Ola,Phone,Electronics,5,250,1250,1
+2026-02-26,Lagos,Kemi,Charger,Accessories,6,20,120,2
+2026-01-07,Abuja,Ade,Charger,Accessories,8,20,160,5
+2026-01-03,Port Harcourt,Emeka,Laptop,Electronics,20,800,16000,3
+2026-03-09,Abuja,Ade,Phone,Electronics,15,250,3750,4
+2026-02-07,Lagos,Emeka,Phone,Electronics,12,250,3000,3
+2026-02-10,Lagos,Hauwa,Tablet,Electronics,4,300,1200,5
+2026-03-28,Port Harcourt,Ade,Tablet,Electronics,13,300,3900,2
+2026-01-30,Ibadan,Chidi,Charger,Accessories,18,20,360,5
+2026-01-27,Ibadan,Luke,Tablet,Electronics,16,300,4800,3
+2026-02-26,Abuja,Ibrahim,Laptop,Electronics,14,800,11200,3
+2026-02-08,Port Harcourt,Kemi,Phone,Electronics,15,250,3750,5
+2026-01-16,Kano,Joy,Phone,Electronics,8,250,2000,3
+2026-03-15,Port Harcourt,Kemi,Laptop,Electronics,10,800,8000,3
+2026-01-09,Ibadan,Bola,Laptop,Electronics,2,800,1600,1
+2026-01-10,Abuja,Fatima,Tablet,Electronics,11,300,3300,1
+2026-03-09,Ibadan,Ola,Laptop,Electronics,17,800,13600,4
+2026-01-25,Lagos,Mary,Tablet,Electronics,15,300,4500,3
+2026-03-06,Port Harcourt,Dami,Headphones,Accessories,5,50,250,1
+2026-02-05,Kano,Luke,Phone,Electronics,19,250,4750,1
+2026-03-29,Port Harcourt,Gideon,Tablet,Electronics,9,300,2700,2
+2026-01-15,Lagos,Ngozi,Phone,Electronics,8,250,2000,3
+2026-01-01,Lagos,Gideon,Headphones,Accessories,6,50,300,2
+2026-02-26,Ibadan,Ade,Tablet,Electronics,7,300,2100,1
+2026-02-10,Abuja,Mary,Phone,Electronics,2,250,500,5
+2026-01-13,Abuja,Luke,Headphones,Accessories,9,50,450,4
+2026-01-03,Abuja,Dami,Charger,Accessories,20,20,400,1
+2026-03-17,Kano,Dami,Tablet,Electronics,17,300,5100,5
+2026-03-22,Port Harcourt,Mary,Phone,Electronics,1,250,250,3
+2026-02-01,Lagos,Gideon,Phone,Electronics,15,250,3750,4
+2026-03-24,Abuja,Joy,Tablet,Electronics,18,300,5400,3
+2026-02-04,Lagos,Chidi,Headphones,Accessories,20,50,1000,2
+2026-01-14,Abuja,Bola,Headphones,Accessories,1,50,50,2
+2026-03-29,Lagos,Luke,Headphones,Accessories,4,50,200,3
+2026-01-06,Lagos,Ade,Charger,Accessories,19,20,380,1
+2026-02-18,Lagos,Luke,Charger,Accessories,1,20,20,3
+2026-03-10,Lagos,Chidi,Phone,Electronics,1,250,250,3
+2026-01-06,Kano,Fatima,Headphones,Accessories,16,50,800,5
+2026-03-05,Ibadan,Ngozi,Laptop,Electronics,16,800,12800,3
+2026-03-17,Lagos,Ibrahim,Headphones,Accessories,19,50,950,3
+2026-03-15,Lagos,Gideon,Phone,Electronics,11,250,2750,1
+2026-03-09,Lagos,Ibrahim,Tablet,Electronics,20,300,6000,4
+2026-01-22,Ibadan,Bola,Charger,Accessories,2,20,40,3
+2026-03-13,Port Harcourt,Ola,Headphones,Accessories,5,50,250,3
+2026-01-16,Kano,Luke,Tablet,Electronics,18,300,5400,3
+2026-03-23,Lagos,Bola,Tablet,Electronics,19,300,5700,4
+2026-03-13,Ibadan,Emeka,Charger,Accessories,16,20,320,4
+2026-01-12,Port Harcourt,Fatima,Laptop,Electronics,1,800,800,5
+2026-01-05,Abuja,Luke,Phone,Electronics,11,250,2750,3
+2026-01-17,Abuja,Chidi,Laptop,Electronics,12,800,9600,1
+2026-02-26,Lagos,Ibrahim,Tablet,Electronics,5,300,1500,4
+2026-03-10,Abuja,Ibrahim,Laptop,Electronics,14,800,11200,3
+2026-03-03,Lagos,Mary,Phone,Electronics,1,250,250,2
+2026-01-19,Ibadan,Dami,Tablet,Electronics,16,300,4800,5
+2026-02-16,Lagos,Ola,Phone,Electronics,2,250,500,4
+2026-01-13,Ibadan,Kemi,Laptop,Electronics,1,800,800,4
+2026-03-20,Abuja,Joy,Laptop,Electronics,7,800,5600,3
+2026-01-29,Ibadan,Emeka,Laptop,Electronics,20,800,16000,2
+2026-02-26,Lagos,Dami,Laptop,Electronics,10,800,8000,2
+2026-01-17,Abuja,Ade,Laptop,Electronics,10,800,8000,2
+2026-02-27,Kano,Emeka,Phone,Electronics,6,250,1500,5
+2026-03-10,Lagos,Joy,Laptop,Electronics,9,800,7200,2
+2026-02-10,Kano,Mary,Tablet,Electronics,20,300,6000,1
+2026-03-17,Lagos,Bola,Headphones,Accessories,17,50,850,3
+2026-01-10,Port Harcourt,Dami,Tablet,Electronics,3,300,900,2
+2026-03-21,Abuja,Gideon,Charger,Accessories,3,20,60,2
+2026-02-07,Kano,Chidi,Laptop,Electronics,10,800,8000,2
+2026-02-24,Kano,Gideon,Phone,Electronics,11,250,2750,3
+2026-01-20,Port Harcourt,Ola,Tablet,Electronics,15,300,4500,3
+2026-02-23,Port Harcourt,Emeka,Headphones,Accessories,9,50,450,4
+2026-01-19,Port Harcourt,Ngozi,Charger,Accessories,12,20,240,4
+2026-03-07,Abuja,Ibrahim,Headphones,Accessories,3,50,150,5
+2026-01-22,Kano,Joy,Headphones,Accessories,2,50,100,3
+2026-03-20,Lagos,Hauwa,Charger,Accessories,6,20,120,3
+2026-03-14,Ibadan,Fatima,Laptop,Electronics,10,800,8000,1
+2026-03-11,Port Harcourt,Gideon,Laptop,Electronics,16,800,12800,1
+2026-02-28,Ibadan,Gideon,Headphones,Accessories,4,50,200,4
+2026-01-29,Abuja,Emeka,Tablet,Electronics,2,300,600,4
+2026-03-24,Lagos,Fatima,Laptop,Electronics,1,800,800,2
+2026-02-22,Abuja,Gideon,Headphones,Accessories,10,50,500,3
+2026-02-17,Port Harcourt,Fatima,Laptop,Electronics,19,800,15200,5
+2026-01-30,Abuja,Bola,Phone,Electronics,4,250,1000,1
+2026-01-28,Lagos,Gideon,Phone,Electronics,13,250,3250,1
+2026-02-14,Kano,Emeka,Headphones,Accessories,17,50,850,4
+2026-02-18,Lagos,Dami,Tablet,Electronics,7,300,2100,1
+2026-03-24,Ibadan,Joy,Tablet,Electronics,4,300,1200,1
+2026-02-05,Ibadan,Emeka,Laptop,Electronics,10,800,8000,1
+2026-02-15,Port Harcourt,Gideon,Phone,Electronics,13,250,3250,2
+2026-02-17,Port Harcourt,Ola,Laptop,Electronics,6,800,4800,1
+2026-01-27,Kano,Kemi,Charger,Accessories,10,20,200,2
+2026-03-26,Port Harcourt,Chidi,Charger,Accessories,3,20,60,1
+2026-01-15,Port Harcourt,Hauwa,Headphones,Accessories,15,50,750,4
+2026-01-27,Kano,Hauwa,Phone,Electronics,9,250,2250,2
+2026-01-17,Ibadan,Luke,Laptop,Electronics,19,800,15200,3
+2026-02-11,Port Harcourt,Joy,Tablet,Electronics,9,300,2700,2
+2026-02-09,Kano,Fatima,Charger,Accessories,20,20,400,1
+2026-02-21,Ibadan,Emeka,Phone,Electronics,15,250,3750,1
+2026-03-10,Lagos,Ibrahim,Phone,Electronics,14,250,3500,3
+2026-02-03,Lagos,Luke,Laptop,Electronics,16,800,12800,3
+2026-03-08,Lagos,Hauwa,Phone,Electronics,18,250,4500,2
+2026-03-16,Lagos,Joy,Headphones,Accessories,1,50,50,2
+2026-01-10,Abuja,Fatima,Phone,Electronics,16,250,4000,2
+2026-01-19,Kano,Emeka,Charger,Accessories,6,20,120,4
+2026-02-15,Ibadan,Hauwa,Laptop,Electronics,13,800,10400,3
+2026-03-06,Lagos,Ola,Phone,Electronics,10,250,2500,3
+2026-01-08,Port Harcourt,Luke,Tablet,Electronics,14,300,4200,3
+2026-03-22,Abuja,Joy,Laptop,Electronics,14,800,11200,1
+2026-03-30,Kano,Joy,Headphones,Accessories,6,50,300,1
+2026-02-23,Ibadan,Kemi,Laptop,Electronics,1,800,800,5
+2026-03-23,Abuja,Mary,Phone,Electronics,9,250,2250,3
+2026-03-02,Ibadan,Mary,Headphones,Accessories,2,50,100,2
+2026-03-01,Lagos,Emeka,Phone,Electronics,11,250,2750,2
+2026-02-05,Lagos,Joy,Tablet,Electronics,8,300,2400,2
+2026-02-06,Ibadan,Hauwa,Headphones,Accessories,11,50,550,4
+2026-03-04,Port Harcourt,Ngozi,Laptop,Electronics,18,800,14400,3
+2026-01-04,Ibadan,Mary,Headphones,Accessories,13,50,650,5
+2026-02-23,Port Harcourt,Chidi,Laptop,Electronics,11,800,8800,4
+2026-01-01,Lagos,Kemi,Tablet,Electronics,15,300,4500,3
+2026-02-07,Abuja,Kemi,Headphones,Accessories,14,50,700,2
+2026-02-07,Lagos,Mary,Laptop,Electronics,1,800,800,5
+2026-01-29,Abuja,Gideon,Charger,Accessories,16,20,320,5
+2026-03-15,Ibadan,Dami,Laptop,Electronics,17,800,13600,4
+2026-03-12,Abuja,Kemi,Headphones,Accessories,18,50,900,3
+2026-02-16,Abuja,Luke,Laptop,Electronics,13,800,10400,4
+2026-02-04,Kano,Ibrahim,Charger,Accessories,19,20,380,4
+2026-01-01,Port Harcourt,Bola,Phone,Electronics,5,250,1250,4
+2026-03-01,Abuja,Ade,Tablet,Electronics,12,300,3600,3
+2026-01-23,Ibadan,Luke,Phone,Electronics,10,250,2500,1
+2026-03-29,Lagos,Ola,Laptop,Electronics,20,800,16000,1
+2026-02-24,Abuja,Mary,Laptop,Electronics,13,800,10400,5
+2026-02-18,Port Harcourt,Mary,Tablet,Electronics,4,300,1200,2
+2026-03-21,Lagos,Ola,Tablet,Electronics,7,300,2100,1
+2026-03-26,Kano,Hauwa,Phone,Electronics,17,250,4250,5
+2026-01-06,Abuja,Fatima,Tablet,Electronics,9,300,2700,3
+2026-02-04,Abuja,Ibrahim,Laptop,Electronics,13,800,10400,1
+2026-02-11,Lagos,Dami,Charger,Accessories,5,20,100,1
+2026-03-28,Kano,Bola,Laptop,Electronics,12,800,9600,3
+2026-01-29,Port Harcourt,Emeka,Headphones,Accessories,9,50,450,5
+2026-02-01,Port Harcourt,Ngozi,Headphones,Accessories,13,50,650,4
+2026-01-23,Lagos,Fatima,Laptop,Electronics,15,800,12000,5
+2026-03-26,Lagos,Dami,Tablet,Electronics,17,300,5100,2
+2026-01-06,Lagos,Dami,Phone,Electronics,5,250,1250,4
+2026-01-22,Ibadan,Ngozi,Laptop,Electronics,18,800,14400,1
+2026-02-01,Abuja,Gideon,Phone,Electronics,17,250,4250,2
+2026-03-19,Lagos,Chidi,Laptop,Electronics,19,800,15200,2
+2026-02-05,Port Harcourt,Chidi,Tablet,Electronics,10,300,3000,2
+2026-01-28,Abuja,Ibrahim,Phone,Electronics,9,250,2250,3
+2026-02-08,Lagos,Ngozi,Tablet,Electronics,14,300,4200,3
+2026-01-28,Lagos,Emeka,Headphones,Accessories,15,50,750,3
+2026-02-16,Ibadan,Ola,Laptop,Electronics,9,800,7200,1
+2026-01-19,Lagos,Luke,Tablet,Electronics,1,300,300,3
+2026-02-09,Kano,Ibrahim,Laptop,Electronics,10,800,8000,2
+2026-01-29,Port Harcourt,Joy,Charger,Accessories,1,20,20,2
+2026-01-13,Lagos,Emeka,Tablet,Electronics,2,300,600,1
+2026-02-17,Kano,Dami,Laptop,Electronics,2,800,1600,5
+2026-02-18,Port Harcourt,Hauwa,Charger,Accessories,16,20,320,5
+2026-03-29,Abuja,Bola,Laptop,Electronics,7,800,5600,2
+2026-03-12,Lagos,Gideon,Headphones,Accessories,17,50,850,5
+2026-01-26,Lagos,Bola,Charger,Accessories,5,20,100,1
+2026-01-07,Abuja,Mary,Phone,Electronics,3,250,750,2
+2026-02-22,Ibadan,Bola,Laptop,Electronics,17,800,13600,1
+2026-03-03,Ibadan,Bola,Charger,Accessories,17,20,340,1
+2026-01-25,Lagos,Chidi,Headphones,Accessories,11,50,550,3
+2026-03-20,Abuja,Dami,Phone,Electronics,3,250,750,5
+2026-02-01,Abuja,Dami,Laptop,Electronics,11,800,8800,2
+2026-01-25,Abuja,Bola,Tablet,Electronics,16,300,4800,4
+2026-02-25,Kano,Mary,Tablet,Electronics,9,300,2700,1
+2026-02-10,Kano,Fatima,Tablet,Electronics,16,300,4800,3
+2026-02-20,Port Harcourt,Emeka,Charger,Accessories,12,20,240,1
+2026-03-19,Ibadan,Kemi,Charger,Accessories,7,20,140,5
+2026-01-19,Lagos,Fatima,Headphones,Accessories,19,50,950,2
+2026-02-14,Lagos,Hauwa,Tablet,Electronics,9,300,2700,3
+2026-02-22,Kano,Joy,Tablet,Electronics,11,300,3300,1
+2026-01-18,Abuja,Kemi,Laptop,Electronics,8,800,6400,3
+2026-03-07,Kano,Dami,Phone,Electronics,16,250,4000,4
+2026-02-26,Port Harcourt,Ngozi,Tablet,Electronics,15,300,4500,4
+2026-02-26,Port Harcourt,Gideon,Laptop,Electronics,15,800,12000,1
+2026-03-23,Lagos,Ngozi,Laptop,Electronics,13,800,10400,2
+2026-02-14,Port Harcourt,Joy,Charger,Accessories,13,20,260,4
+2026-03-08,Ibadan,Ola,Laptop,Electronics,10,800,8000,3
+2026-02-23,Abuja,Dami,Headphones,Accessories,3,50,150,3
+2026-03-01,Lagos,Ngozi,Charger,Accessories,4,20,80,4
+2026-01-30,Lagos,Ibrahim,Headphones,Accessories,11,50,550,3
+2026-03-03,Lagos,Ola,Phone,Electronics,2,250,500,1
+2026-01-31,Kano,Ngozi,Laptop,Electronics,9,800,7200,4
+2026-03-02,Ibadan,Fatima,Charger,Accessories,2,20,40,1
+2026-01-08,Abuja,Ade,Laptop,Electronics,4,800,3200,1
+2026-02-14,Kano,Chidi,Laptop,Electronics,5,800,4000,2
+2026-03-22,Ibadan,Kemi,Tablet,Electronics,20,300,6000,3
+2026-03-24,Port Harcourt,Joy,Charger,Accessories,5,20,100,4
+2026-01-09,Port Harcourt,Luke,Headphones,Accessories,7,50,350,4
+2026-01-29,Ibadan,Bola,Charger,Accessories,6,20,120,2
+2026-01-16,Ibadan,Ngozi,Phone,Electronics,17,250,4250,3
+2026-03-27,Port Harcourt,Chidi,Phone,Electronics,4,250,1000,2
+2026-02-11,Port Harcourt,Ngozi,Headphones,Accessories,12,50,600,5
+2026-01-11,Lagos,Dami,Phone,Electronics,13,250,3250,3
+2026-02-28,Kano,Kemi,Phone,Electronics,8,250,2000,2
+2026-01-10,Kano,Ade,Phone,Electronics,12,250,3000,4
+2026-03-20,Abuja,Luke,Tablet,Electronics,11,300,3300,1
+2026-02-19,Port Harcourt,Fatima,Charger,Accessories,2,20,40,4
+2026-03-31,Abuja,Ngozi,Charger,Accessories,19,20,380,2
+2026-03-03,Port Harcourt,Luke,Laptop,Electronics,17,800,13600,1
+2026-03-08,Lagos,Emeka,Tablet,Electronics,15,300,4500,3
+2026-02-14,Abuja,Chidi,Charger,Accessories,1,20,20,4
+2026-01-13,Kano,Gideon,Charger,Accessories,14,20,280,3
+2026-01-07,Port Harcourt,Fatima,Headphones,Accessories,4,50,200,2
+2026-02-22,Ibadan,Joy,Phone,Electronics,7,250,1750,4
+2026-03-29,Port Harcourt,Gideon,Laptop,Electronics,6,800,4800,4
+2026-03-25,Port Harcourt,Luke,Laptop,Electronics,5,800,4000,4
+2026-01-28,Kano,Emeka,Headphones,Accessories,1,50,50,1
+2026-03-04,Kano,Dami,Headphones,Accessories,5,50,250,5
+2026-03-20,Abuja,Ibrahim,Laptop,Electronics,3,800,2400,5
+2026-02-19,Kano,Ibrahim,Laptop,Electronics,14,800,11200,1
+2026-02-28,Ibadan,Hauwa,Phone,Electronics,14,250,3500,5
+2026-03-18,Ibadan,Ade,Headphones,Accessories,7,50,350,2
+2026-01-08,Lagos,Bola,Headphones,Accessories,2,50,100,3
+2026-02-23,Abuja,Emeka,Phone,Electronics,1,250,250,5
+2026-02-17,Abuja,Gideon,Headphones,Accessories,6,50,300,3
+2026-01-12,Ibadan,Ngozi,Phone,Electronics,20,250,5000,3
+2026-03-08,Abuja,Ade,Laptop,Electronics,10,800,8000,5
+2026-01-15,Kano,Bola,Headphones,Accessories,3,50,150,5
+2026-02-04,Ibadan,Ibrahim,Headphones,Accessories,13,50,650,4
+2026-02-28,Ibadan,Hauwa,Laptop,Electronics,11,800,8800,5
+2026-02-23,Lagos,Bola,Tablet,Electronics,19,300,5700,3
+2026-02-04,Ibadan,Chidi,Headphones,Accessories,16,50,800,2
