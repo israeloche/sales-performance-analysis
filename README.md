@@ -15,4 +15,6 @@ This project analyzes 1,500 sales transactions across Nigeria to uncover revenue
 -Matplotlib
 -Seaborn
 -Jupyter Notebook
+
+##
 [README_2.md](https://github.com/user-attachments/files/27241624/README_2.md)
