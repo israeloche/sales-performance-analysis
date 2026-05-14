@@ -1,6 +1,6 @@
 # Sales Data Analysis
 
-An exploratory data analysis (EDA) project built in Python using a 1,500-row sales dataset. The notebook uncovers revenue trends, product performance, regional breakdowns, and salesperson effectiveness through data aggregation and visualizations.
+An exploratory data analysis (EDA) project built in Python using a 1,500-row sales dataset. The notebook uncovers revenue trends, product performance, and regional breakdowns through data aggregation and visualizations.
 
 ---
 
