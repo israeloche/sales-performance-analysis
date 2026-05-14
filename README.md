@@ -1,20 +1,36 @@
-# 📊 Sales Data Analysis
+plt.figure(figsize=(12, 7))
 
-This project analyzes 1,500 sales transactions across Nigeria to uncover revenue trends, product performance, and regional sales patterns. The goal is to generate actionable insights that can inform business strategy and decision-making.
-## Objectives
+scatter = sns.scatterplot(
+    data=combined,
+    x='Total Transactions',
+    y='Avg Customer Rating',
+    hue='Salesperson',
+    size='Total Transactions',
+    sizes=(100, 500),
+    palette='tab10',
+    alpha=0.85
+)
 
--Identify top-performing products by revenue
--Analyze revenue distribution across categories
--Explore time-based revenue trends
--Generate actionable business insights
+for _, row in combined.iterrows():
+    plt.annotate(
+        row['Salesperson'],
+        xy=(row['Total Transactions'], row['Avg Customer Rating']),
+        xytext=(6, 4),
+        textcoords='offset points',
+        fontsize=8.5,
+        fontweight='bold'
+    )
 
-## Tools & Technologies
+plt.axhline(y=combined['Avg Customer Rating'].mean(), color='red', linestyle='--', linewidth=1.2, label='Avg Rating')
+plt.axvline(x=combined['Total Transactions'].mean(), color='blue', linestyle='--', linewidth=1.2, label='Avg Transactions')
 
--Python
--Pandas
--Matplotlib
--Seaborn
--Jupyter Notebook
+plt.title('Customer Rating vs Total Transactions by Salesperson',
+          fontsize=14, fontweight='bold', pad=15)
+plt.xlabel('Total Transactions', fontsize=12)
+plt.ylabel('Average Customer Rating', fontsize=12)
+plt.ylim(0, 5.5)
+plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
 
-##
-[README_2.md](https://github.com/user-attachments/files/27241624/README_2.md)
+plt.tight_layout()
+plt.savefig('salesperson_scatterplot.png', dpi=150, bbox_inches='tight')
+plt.show()
