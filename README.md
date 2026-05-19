@@ -2,6 +2,8 @@
 
 An exploratory data analysis (EDA) project built in Python using a 1,500-row sales dataset. The notebook uncovers revenue trends, product performance, and regional breakdowns through data aggregation and visualizations.
 
+View Dashboard here: https://public.tableau.com/views/Regionalanalysisdashboard/RegionalAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ---
 
 ## Overview
